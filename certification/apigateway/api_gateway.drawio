@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T17:53:48.165Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="UPg76zR37dJYxfJTZjIC" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T18:14:17.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="OfVU64fxrGzJaDlauNba" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
     <mxGraphModel dx="3526" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -386,13 +386,13 @@
           <mxGeometry x="-1237" y="-1132" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-79" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-1210" y="-1148" width="536" height="15" as="geometry" />
+          <mxGeometry x="-1210" y="-1148" width="486" height="15" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-81" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1070" y="-1170" width="1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-83" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-992" y="-1148" width="41" height="18" as="geometry" />
+          <mxGeometry x="-991" y="-1148" width="41" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-84" value="&lt;span style=&quot;&quot;&gt;JSON doc that you attach to&amp;nbsp; an&amp;nbsp; api&lt;br&gt;to allow your api be securely invoked&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="-1292" y="-1098" width="210" height="30" as="geometry" />
@@ -404,34 +404,34 @@
           <mxGeometry x="-1097" y="-1097.5" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-87" value="Lambda authorizers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1006" y="-1130" width="72" height="30" as="geometry" />
+          <mxGeometry x="-1007" y="-1130" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-88" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;It can be useful if you want to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;implement token bearer - oAuth 2.0&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="-1042" y="-1094" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1070" y="-1094" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-89" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-1038" y="-1095" width="12" height="30" as="geometry" />
+          <mxGeometry x="-1066" y="-1095" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-857" y="-1093.5" width="12" height="30" as="geometry" />
+          <mxGeometry x="-885" y="-1093.5" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-91" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-800" y="-1148" width="41" height="18" as="geometry" />
+          <mxGeometry x="-831" y="-1148" width="41" height="18" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-92" value="IAM&lt;br&gt;permission" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-814" y="-1130" width="72" height="30" as="geometry" />
+          <mxGeometry x="-849" y="-1130" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-93" value="Amazon&amp;nbsp; Cognito User Pool" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-705" y="-1131" width="70" height="40" as="geometry" />
+          <mxGeometry x="-741" y="-1131" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-95" value="&lt;div style=&quot;text-align: left;&quot;&gt;IAM TAGS&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="-813" y="-1092.5" width="70" height="20" as="geometry" />
+          <mxGeometry x="-849" y="-1092.5" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-96" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-808" y="-1095" width="12" height="24" as="geometry" />
+          <mxGeometry x="-844" y="-1095" width="12" height="24" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-97" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-758" y="-1095" width="12" height="24" as="geometry" />
+          <mxGeometry x="-794" y="-1095" width="12" height="24" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-100" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.403;exitY=-0.039;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aaMSTrbnzDPnuoNs1O_9-101">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -440,25 +440,64 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-101" value="HTTP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-481" y="-1180" width="80" height="21" as="geometry" />
+          <mxGeometry x="-534" y="-1180" width="80" height="21" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-103" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="-583" y="-1136" width="243" height="15" as="geometry" />
+          <mxGeometry x="-606" y="-1136" width="187" height="15" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-104" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-443" y="-1158" width="1" height="20" as="geometry" />
+          <mxGeometry x="-497" y="-1158" width="1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-105" value="Lambda authorizers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-610" y="-1118" width="72" height="30" as="geometry" />
+          <mxGeometry x="-630" y="-1118" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-106" value="IAM&lt;br&gt;permission" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-502.5" y="-1118" width="72" height="30" as="geometry" />
+          <mxGeometry x="-545.5" y="-1118" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-107" value="JWT authorizer" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-376" y="-1119" width="70" height="40" as="geometry" />
+          <mxGeometry x="-460" y="-1119" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-108" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-487" y="-1136" width="41" height="18" as="geometry" />
+          <mxGeometry x="-525" y="-1136" width="41" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-110" value="Websocket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-254" y="-1174" width="80" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-112" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="-346" y="-1131" width="210" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-113" value="Lambda authorizers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-374" y="-1116" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-114" value="IAM&lt;br&gt;Tags" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="-1111" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-115" value="Standard AWS IAM roles and policies" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-187" y="-1114" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-116" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-216" y="-1151" width="1" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-117" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-251" y="-1131" width="1" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-118" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="aaMSTrbnzDPnuoNs1O_9-110">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-200" y="-1190" as="sourcePoint" />
+            <mxPoint x="-711.0046609406724" y="-1389.9962236891497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-119" value="To allow a user to access to the Api:&lt;br&gt;You must create an API Gateway &lt;br&gt;resource policy and attach the &lt;br&gt;policy to the API" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;fontSize=13;fontColor=#000033;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-1302" y="-1059" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-120" value="&lt;div style=&quot;&quot;&gt;Create the user pool&lt;/div&gt;&lt;div style=&quot;&quot;&gt;in amazon cognito&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="-758" y="-1081" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-121" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-762" y="-1081" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-122" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-657" y="-1080" width="12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
