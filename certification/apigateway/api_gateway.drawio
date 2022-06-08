@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T12:02:04.790Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="jKzLm-qA-g_Lx7P6PxY1" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T12:07:48.184Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="ISDzVzCGvK6CHh0YzlBo" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
     <mxGraphModel dx="3321" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="e3F0U84aLfVKptTIg71--1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;direction=north;" parent="1" vertex="1">
           <mxGeometry x="-1695" y="-1446" width="563" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="e3F0U84aLfVKptTIg71--4" value="Supports1" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="e3F0U84aLfVKptTIg71--4" value="Supports" style="ellipse;whiteSpace=wrap;html=1;dashed=1;strokeColor=#FF9933;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1996" y="-1286" width="100" height="52" as="geometry" />
         </mxCell>
         <mxCell id="e3F0U84aLfVKptTIg71--10" value="" style="line;strokeWidth=2;direction=south;html=1;" parent="1" vertex="1">
@@ -181,26 +181,26 @@
         <mxCell id="3u_sAwuGoXgxyQlECYIR-36" value="&lt;b&gt;PROS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;flipV=1;flipH=1;" parent="1" vertex="1">
           <mxGeometry x="-1904" y="-922" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3u_sAwuGoXgxyQlECYIR-37" value="Api Caching" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2238" y="-890" width="80" height="20" as="geometry" />
+        <mxCell id="3u_sAwuGoXgxyQlECYIR-37" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Api Caching&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2243" y="-890" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3u_sAwuGoXgxyQlECYIR-38" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Request body transformation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Request/Response Validation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Custom gateway responses&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2239" y="-865" width="180" height="50" as="geometry" />
+        <mxCell id="3u_sAwuGoXgxyQlECYIR-38" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Request body transformation&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Request/Response Validation&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Custom gateway responses&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2245" y="-865" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3u_sAwuGoXgxyQlECYIR-39" value="Canary release deployment&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2240" y="-806" width="160" height="20" as="geometry" />
+        <mxCell id="3u_sAwuGoXgxyQlECYIR-39" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Canary release deployment&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-2245" y="-806" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3u_sAwuGoXgxyQlECYIR-40" value="Execution logs&lt;br&gt;AWS - XRay" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-2237" y="-777" width="90" height="30" as="geometry" />
+          <mxGeometry x="-2245" y="-777" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3u_sAwuGoXgxyQlECYIR-41" value="Native OpenID Connect/ &lt;br&gt;OAuth 2.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="3u_sAwuGoXgxyQlECYIR-41" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;Native OpenID Connect/ &lt;br&gt;OAuth 2.0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1924" y="-894" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3u_sAwuGoXgxyQlECYIR-42" value="Private Integration with App &lt;br&gt;Load Balancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1922" y="-854" width="160" height="30" as="geometry" />
+        <mxCell id="3u_sAwuGoXgxyQlECYIR-42" value="&lt;font color=&quot;#ff3333&quot;&gt;&lt;b&gt;Private Integration with App &lt;br&gt;Load Balancer&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1927" y="-854" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3u_sAwuGoXgxyQlECYIR-43" value="Automatic Stage&lt;br&gt;Automatic Route&lt;br&gt;Autoomatoc Deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1921" y="-815" width="150" height="50" as="geometry" />
+        <mxCell id="3u_sAwuGoXgxyQlECYIR-43" value="Automatic Stage&lt;br&gt;Automatic Route&lt;br&gt;Automatic Deployment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1927" y="-815" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
