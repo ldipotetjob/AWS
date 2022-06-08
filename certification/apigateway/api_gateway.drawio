@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T12:46:40.607Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="90u6KF-ncKemHtxW8JLn" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T14:31:11.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="BcsW0e6_gJxGwIvNaJs7" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
     <mxGraphModel dx="3321" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -288,6 +288,12 @@
             <mxPoint x="68.75" y="77.49276315789473" as="sourcePoint" />
             <mxPoint x="15.583333333333334" y="77.49276315789473" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-28" value="Payload&amp;nbsp;&lt;br&gt;Format" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="-1944" y="-631" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-29" value="Response&amp;nbsp;&lt;br&gt;Format" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="-1776" y="-631" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
