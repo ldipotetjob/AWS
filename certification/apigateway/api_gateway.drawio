@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-08T18:14:17.832Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="OfVU64fxrGzJaDlauNba" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-08T18:14:59.879Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="GuR1p39HsG77v-YZhxYZ" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
     <mxGraphModel dx="3526" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -407,13 +407,13 @@
           <mxGeometry x="-1007" y="-1130" width="72" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-88" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;It can be useful if you want to&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;implement token bearer - oAuth 2.0&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="-1070" y="-1094" width="200" height="30" as="geometry" />
+          <mxGeometry x="-1054" y="-1094" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-89" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-1066" y="-1095" width="12" height="30" as="geometry" />
+          <mxGeometry x="-1050" y="-1095" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-90" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="-885" y="-1093.5" width="12" height="30" as="geometry" />
+          <mxGeometry x="-869" y="-1093.5" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-91" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="-831" y="-1148" width="41" height="18" as="geometry" />
@@ -487,8 +487,8 @@
             <mxPoint x="-711.0046609406724" y="-1389.9962236891497" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aaMSTrbnzDPnuoNs1O_9-119" value="To allow a user to access to the Api:&lt;br&gt;You must create an API Gateway &lt;br&gt;resource policy and attach the &lt;br&gt;policy to the API" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;fontSize=13;fontColor=#000033;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="-1302" y="-1059" width="220" height="70" as="geometry" />
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-119" value="&lt;b&gt;To allow a user to access to the Api:&lt;br&gt;You must create an API Gateway &lt;br&gt;resource policy and attach the &lt;br&gt;policy to the API&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;fontSize=13;fontColor=#000033;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="-1302" y="-1059" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-120" value="&lt;div style=&quot;&quot;&gt;Create the user pool&lt;/div&gt;&lt;div style=&quot;&quot;&gt;in amazon cognito&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="-758" y="-1081" width="120" height="30" as="geometry" />
