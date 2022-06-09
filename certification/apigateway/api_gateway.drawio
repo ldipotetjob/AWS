@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T14:03:34.946Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="PDdX17aaqhh7AqBG5Pfs" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T14:12:01.651Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="ek8YksJXQ60c3XslH2ze" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
     <mxGraphModel dx="3156" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -514,7 +514,7 @@
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-119" value="&lt;b&gt;To allow a user to access to the Api:&lt;br&gt;You must create an API Gateway &lt;br&gt;resource policy and attach the &lt;br&gt;policy to the API&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#3399FF;fillColor=none;fontSize=13;fontColor=#000033;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="-1242" y="-1059" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="aaMSTrbnzDPnuoNs1O_9-120" value="&lt;div style=&quot;&quot;&gt;Create the user pool&lt;/div&gt;&lt;div style=&quot;&quot;&gt;in amazon cognito&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" parent="1" vertex="1">
+        <mxCell id="aaMSTrbnzDPnuoNs1O_9-120" value="&lt;div style=&quot;&quot;&gt;Create the user pool&lt;/div&gt;&lt;div style=&quot;&quot;&gt;in &lt;b&gt;Amazon Cognito&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="-693" y="-1081" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aaMSTrbnzDPnuoNs1O_9-121" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
@@ -618,6 +618,9 @@
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-53" value="&lt;div&gt;(4) &lt;b&gt;Invoking your private API using endpoint-specific public DNS hostnames&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1371" y="-342" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x9ORePDiHqWgyaPsYfJO-60" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=0;fontSize=10;strokeColor=#3399FF;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-683" y="-1067" width="100" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
