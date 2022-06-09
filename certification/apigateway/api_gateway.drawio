@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T14:02:28.823Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="xOuFnH21f4mr13a87a0d" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T14:03:06.828Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="r9cVpFX_TD4GNt0asVji" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
     <mxGraphModel dx="3156" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -557,7 +557,7 @@
           <mxGeometry x="-1177" y="-796" width="38" height="24" as="geometry" />
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-23" value="(1) &lt;b&gt;Invoking your private API using private DNS names&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1352" y="-824" width="330" height="20" as="geometry" />
+          <mxGeometry x="-1369" y="-824" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="-1369" y="-550" width="61" height="120" as="geometry" />
