@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-09T15:09:24.970Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="IoVDcDaA028w0x0JR8Ku" version="19.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-09T15:24:06.848Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="YqKv-WkixRMljTd7NXqI" version="19.0.2" type="github">
   <diagram id="rzBOHS2imSivp7Q6g7ge" name="Page-1">
-    <mxGraphModel dx="3140" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3603" dy="2225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -620,7 +620,7 @@
           <mxGeometry x="-1368" y="-375" width="310" height="20" as="geometry" />
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-53" value="&lt;div&gt;(4) &lt;b&gt;Invoking your private API using endpoint-specific public DNS hostnames&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1371" y="-161" width="450" height="30" as="geometry" />
+          <mxGeometry x="-1373" y="-157" width="450" height="30" as="geometry" />
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-60" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;labelBorderColor=none;sketch=0;fontSize=10;strokeColor=#3399FF;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-683" y="-1067" width="100" height="26" as="geometry" />
@@ -732,8 +732,8 @@
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-92" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1410" y="-130" as="sourcePoint" />
-            <mxPoint x="-1412" y="-882" as="targetPoint" />
+            <mxPoint x="-1412" y="-150" as="sourcePoint" />
+            <mxPoint x="-1414" y="-880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="x9ORePDiHqWgyaPsYfJO-93" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
