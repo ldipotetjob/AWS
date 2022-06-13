@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T18:47:45.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="Tzr4dgByGmD1oHjd8eyg" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T18:52:36.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="m3B9Zqw6mg7S2nP8HuXg" version="19.0.3" type="github">
   <diagram id="4XlqYOp4uJdNFiC0nDDZ" name="Page-1">
     <mxGraphModel dx="1064" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -266,8 +266,32 @@
         <mxCell id="Zrawaq7GhmSFqBXnnMpm-142" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;rounded=0;" parent="b45XmpOlP40o_1RV09xQ-1" vertex="1">
           <mxGeometry x="71" y="94" width="40" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="b45XmpOlP40o_1RV09xQ-4" value="&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 51); font-size: 12px; text-align: left;&quot;&gt;Asynchronous scenario&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="1013" y="651" width="140" height="30" as="geometry" />
+        <mxCell id="b45XmpOlP40o_1RV09xQ-4" value="&lt;b&gt;&lt;br class=&quot;Apple-interchange-newline&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 51); font-size: 12px; text-align: left;&quot;&gt;Asynchronous scenario&lt;/span&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="1008" y="651" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b45XmpOlP40o_1RV09xQ-5" value="Amazon Kinesis" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.kinesis;" vertex="1" parent="1">
+          <mxGeometry x="572" y="710" width="40" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="b45XmpOlP40o_1RV09xQ-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;rounded=0;sketch=0;strokeColor=#FF9933;strokeWidth=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="689" y="713" width="39" height="40.75" as="geometry" />
+        </mxCell>
+        <mxCell id="b45XmpOlP40o_1RV09xQ-7" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="616" y="720" as="sourcePoint" />
+            <mxPoint x="689" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b45XmpOlP40o_1RV09xQ-8" value="" style="endArrow=classic;html=1;rounded=1;sketch=0;curved=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="686" y="740" as="sourcePoint" />
+            <mxPoint x="616" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b45XmpOlP40o_1RV09xQ-9" value="invoke" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="630" y="701" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="b45XmpOlP40o_1RV09xQ-10" value="&lt;span style=&quot;color: rgb(0, 0, 51); font-size: 12px; text-align: left;&quot;&gt;&lt;b&gt;Synchronous scenario&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="567" y="780" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
