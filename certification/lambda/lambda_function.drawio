@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T19:52:23.054Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="elEVhXCrHqG6f6Sr9wnH" version="19.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-13T19:53:16.219Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="a9TfDWZxD9B9qLwJezfc" version="19.0.3" type="github">
   <diagram id="4XlqYOp4uJdNFiC0nDDZ" name="Page-1">
     <mxGraphModel dx="1251" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -290,7 +290,7 @@
           <mxGeometry x="1008" y="651" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b45XmpOlP40o_1RV09xQ-10" value="&lt;span style=&quot;color: rgb(0, 0, 51); font-size: 12px; text-align: left;&quot;&gt;&lt;b&gt;Synchronous scenario&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="210" y="740" width="140" height="20" as="geometry" />
+          <mxGeometry x="200" y="559" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Zrawaq7GhmSFqBXnnMpm-85" value="Foundations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=default;" parent="1" vertex="1">
           <mxGeometry x="187" y="97" width="80" height="20" as="geometry" />
