@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T10:47:14.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="ur6L1Tgxe3JT4SJiZzfT" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T10:52:54.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="d8-0ubrTVKfKsy5BjLrG" version="20.0.1" type="github">
   <diagram id="4XlqYOp4uJdNFiC0nDDZ" name="Page-1">
     <mxGraphModel dx="1251" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -387,6 +387,9 @@
         </mxCell>
         <mxCell id="JW2wYCluZi6iuJ0aH2-L-19" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="440" width="1" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JW2wYCluZi6iuJ0aH2-L-20" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;© 2022, Scadip SL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. All rights reserved.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="13" y="800" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
