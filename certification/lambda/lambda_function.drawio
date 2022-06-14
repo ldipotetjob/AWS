@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-14T09:52:16.862Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="D9FR0AHOPNPA_5O6yC9q" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-14T09:57:32.488Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="VwYrzAZAFf7JxwUlCA_x" version="20.0.1" type="github">
   <diagram id="4XlqYOp4uJdNFiC0nDDZ" name="Page-1">
-    <mxGraphModel dx="1251" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -304,8 +304,8 @@
         <mxCell id="b45XmpOlP40o_1RV09xQ-10" value="&lt;span style=&quot;color: rgb(0, 0, 51); font-size: 12px; text-align: left;&quot;&gt;&lt;b&gt;Synchronous scenario&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="560" y="779" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="rxK0f2ipfS20jKCTAAPW-5" value="Examples of&amp;nbsp; diferents Lambda &lt;br style=&quot;font-size: 14px;&quot;&gt;scenarios&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=14;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="316" y="607" width="210" height="40" as="geometry" />
+        <mxCell id="rxK0f2ipfS20jKCTAAPW-5" value="Examples of Lambda scenarios&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=14;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="316" y="617" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rxK0f2ipfS20jKCTAAPW-6" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=north;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="475" width="15" height="293.5" as="geometry" />
