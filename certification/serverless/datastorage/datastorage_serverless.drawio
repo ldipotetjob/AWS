@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T15:22:24.545Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="OIAIK6gUb0vldsc0IAXB" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T15:31:16.712Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="AC74aab9JGZ_R1aGf7Dt" version="20.0.1" type="github">
   <diagram id="CyTpps-32Fh2xnvXaoju" name="Page-1">
     <mxGraphModel dx="1242" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -891,14 +891,47 @@
         <mxCell id="A6Y4VwrHQMCKhlMzKKBG-375" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=0;strokeColor=default;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="1900" y="1290" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-376" value="" style="curved=1;endArrow=classic;html=1;rounded=1;sketch=0;exitX=1;exitY=0.191;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-376" value="" style="curved=1;endArrow=classic;html=1;rounded=1;sketch=0;exitX=0.927;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A6Y4VwrHQMCKhlMzKKBG-344">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2050" y="1160" as="sourcePoint" />
-            <mxPoint x="2034" y="1213.1799999999998" as="targetPoint" />
+            <mxPoint x="2047" y="1157" as="sourcePoint" />
+            <mxPoint x="2031" y="1210.1799999999998" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2107" y="1202.1799999999998" />
+              <mxPoint x="2104" y="1199.1799999999998" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-377" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#FF9933;strokeWidth=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="1351" width="69" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-378" value="(5) &lt;b&gt;EFS&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1859" y="1355" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-379" value="" style="curved=1;endArrow=classic;html=1;rounded=1;sketch=0;" edge="1" parent="1" target="A6Y4VwrHQMCKhlMzKKBG-378">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2030" y="1320" as="sourcePoint" />
+            <mxPoint x="2005.38" y="1401.1799999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2078.38" y="1390.1799999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-380" value="&lt;ol&gt;&lt;li&gt;In your EC2 Mount EFS Volume&amp;nbsp;and Copy Files&amp;nbsp;&lt;/li&gt;&lt;li&gt;You can un-mount EFS and ShutDown your hst EC2 Instance&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="1399" width="390" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-381" value="" style="group;strokeColor=#FF9933;dashed=1;container=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1710" y="1409" width="380" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-382" value="" style="curved=1;endArrow=classic;html=1;rounded=1;sketch=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="A6Y4VwrHQMCKhlMzKKBG-377">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1770" y="1330" as="sourcePoint" />
+            <mxPoint x="1780" y="1410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1778.38" y="1360.1799999999998" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-383" value="(6)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="1410" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
