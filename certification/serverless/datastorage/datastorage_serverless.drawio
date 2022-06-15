@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T16:12:15.418Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="iCg_Y3ci6v4nAtfoOFZO" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T16:14:11.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="JhR-EB4_QtFSabVBQnH7" version="20.0.1" type="github">
   <diagram id="CyTpps-32Fh2xnvXaoju" name="Page-1">
     <mxGraphModel dx="1242" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -900,7 +900,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-380" value="&lt;ol&gt;&lt;li&gt;In your EC2 Mount EFS Volume&amp;nbsp;and Copy Files&amp;nbsp;&lt;/li&gt;&lt;li&gt;You can un-mount EFS and ShutDown your hst EC2 Instance&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+        <mxCell id="A6Y4VwrHQMCKhlMzKKBG-380" value="&lt;ol&gt;&lt;li&gt;In your EC2 &lt;b&gt;Mount EFS Volume&amp;nbsp;and Copy Files&lt;/b&gt;&amp;nbsp;&lt;/li&gt;&lt;li&gt;You can &lt;b&gt;un-mount EFS&lt;/b&gt; and ShutDown your hst EC2 Instance&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1715" y="1399" width="390" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A6Y4VwrHQMCKhlMzKKBG-381" value="" style="group;strokeColor=#FF9933;dashed=1;container=0;" vertex="1" connectable="0" parent="1">
