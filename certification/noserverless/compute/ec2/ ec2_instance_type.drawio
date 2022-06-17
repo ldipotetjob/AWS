@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-17T12:33:11.813Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="FQrevdgdhv7466iWTCaQ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-17T12:52:56.214Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36" etag="IO7dIXarMGeL4vsR1OQb" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
     <mxGraphModel dx="1142" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -192,6 +192,33 @@
         </mxCell>
         <mxCell id="JC6SgRXy9MHT9SMiRejr-53" value="AMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="391" y="769" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-58" value="M5n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="575" y="700" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-59" value="M5dn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="572" y="717" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-60" value="Intel Xeon&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="565" y="772" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-61" value="&lt;font color=&quot;#ff3333&quot;&gt;AWS nitro System&amp;nbsp; &lt;br&gt;up 3.61 Ghz&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="560" y="739" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-62" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="553" y="739" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-63" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="636" y="739" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="640" y="830" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-65" value="Instance variant are ideal for application &lt;br&gt;that can take advantage of improved &lt;br&gt;network throughput and packet performance&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="660" y="860" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JC6SgRXy9MHT9SMiRejr-66" value="Use cases(indem other M5 familes) + :" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="641" y="836" width="220" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
