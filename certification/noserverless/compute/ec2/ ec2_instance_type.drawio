@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-06-20T15:33:13.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rqTR0QEpfIje_7-U8Khv" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-20T16:03:09.120Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Hf9wX9u3WFMBjrVcGefR" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
     <mxGraphModel dx="1236" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Y4munU0hI8EtiIeRVAHa-95" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 3.5 Ghz. &lt;br&gt;EFA on largest instance.&lt;br&gt;&amp;nbsp;Network up to 100 Gbps.&lt;br&gt;33% higher memory footprint &lt;br&gt;compared to C5 instances&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-95" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 3.5 Ghz. &lt;br&gt;&lt;b&gt;EFA&lt;/b&gt; on largest instance.&lt;br&gt;&amp;nbsp;Network up to 100 Gbps.&lt;br&gt;33% higher memory footprint &lt;br&gt;compared to C5 instances&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1506" y="746" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-75" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 10px; text-align: left;&quot;&gt;up 3.6 Ghz. EFA up 100 Gbps&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="Y4munU0hI8EtiIeRVAHa-41" value="&lt;font&gt;up 100 Gbps.40%&amp;nbsp; better &lt;br&gt;performance over C5n.&amp;nbsp; Support&lt;br&gt;EFA for api that nedd:bandwith.&lt;br&gt;&lt;/font&gt;&lt;b&gt;high networking throughput: &lt;br&gt;i.e: HPC&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1619" y="351" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Y4munU0hI8EtiIeRVAHa-49" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;Up 3.5 GHz. &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up 15% better computer price performance over&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;C5 instances. &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up to 9% higher memory bandwith vs C5 Instances.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up 50 GBs networking&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up 40 Gbps of bandwith to EBS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;EFA on bigest instances&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-49" value="&lt;ul&gt;&lt;li&gt;&lt;font&gt;Up 3.5 GHz. &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up 15% better computer price performance over&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;C5 instances. &lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up to 9% higher memory bandwith vs C5 Instances.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up 50 GBs networking&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Up 40 Gbps of bandwith to EBS&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;&lt;b&gt;EFA&lt;/b&gt; on bigest instances&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="1767.27" y="340" width="290" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JC6SgRXy9MHT9SMiRejr-31" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
@@ -508,7 +508,7 @@
         <mxCell id="Y4munU0hI8EtiIeRVAHa-52" value="AMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="2105" y="328" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y4munU0hI8EtiIeRVAHa-53" value="15% better computer prices&lt;br style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;than C5a. Suuport EFA on the &lt;br style=&quot;font-size: 10px;&quot;&gt;largest instance(48xlarge)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-53" value="15% better computer prices&lt;br style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;than C5a. Suuport &lt;b&gt;EFA &lt;/b&gt;on the &lt;br style=&quot;font-size: 10px;&quot;&gt;largest instance(48xlarge)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="2071" y="350" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-54" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
@@ -587,9 +587,9 @@
           <mxGeometry x="1296" y="710" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-83" value="Intel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="1291" y="729" width="40" height="20" as="geometry" />
+          <mxGeometry x="1291" y="726" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Y4munU0hI8EtiIeRVAHa-84" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 10px; text-align: left;&quot;&gt;up 3.4 Ghz. C5d - NVMe SSD&lt;br&gt;&amp;nbsp;ENA - C% up 25 Gbps&lt;br&gt;ENA - EBS - up 19 Gbps&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-84" value="&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 10px; text-align: left;&quot;&gt;up 3.4 Ghz. C5d - NVMe SSD&lt;br&gt;&amp;nbsp;&lt;b&gt;ENA&lt;/b&gt; - C% up 25 Gbps&lt;br&gt;&lt;b&gt;ENA&lt;/b&gt; - EBS - up 19 Gbps&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1260" y="749" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-85" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
@@ -628,8 +628,8 @@
         <mxCell id="Y4munU0hI8EtiIeRVAHa-98" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="691" width="1.27" height="19" as="geometry" />
         </mxCell>
-        <mxCell id="Y4munU0hI8EtiIeRVAHa-99" value="C5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="1786" y="711" width="30" height="20" as="geometry" />
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-99" value="C5a" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1781" y="711" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-100" value="AMD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1782" y="726" width="40" height="20" as="geometry" />
@@ -644,16 +644,43 @@
           <mxGeometry x="1752" y="747" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-104" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="1718" y="833" width="209" height="138" as="geometry" />
+          <mxGeometry x="1718" y="809" width="209" height="138" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-105" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;batch processing&lt;/li&gt;&lt;li&gt;compute intensive workload&lt;/li&gt;&lt;li&gt;distribute analytics&lt;/li&gt;&lt;li&gt;data transformation&lt;/li&gt;&lt;li&gt;compute intensive workload&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="1719" y="836" width="200" height="130" as="geometry" />
+          <mxGeometry x="1719" y="812" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-106" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="1717" y="839" width="70" height="20" as="geometry" />
+          <mxGeometry x="1717" y="815" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y4munU0hI8EtiIeRVAHa-107" value="&lt;span style=&quot;background-color: initial;&quot;&gt;workload requiring high vCpu &lt;br&gt;and memory bandwith&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="938" width="170" height="30" as="geometry" />
+          <mxGeometry x="1760" y="914" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-108" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="690" width="1.27" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-109" value="C4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="2038" y="710" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-110" value="Intel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="2032" y="726" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-113" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 2.9 Ghz.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 51, 51); font-size: 10px; text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="2026" y="753" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-114" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1983" y="788" width="207" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-115" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;HP front-end fleets&lt;/li&gt;&lt;li&gt;distribute analytics&lt;/li&gt;&lt;li&gt;webservers&lt;/li&gt;&lt;li&gt;batch processing&lt;/li&gt;&lt;li&gt;HP Science&lt;/li&gt;&lt;li&gt;Ad server&lt;/li&gt;&lt;li&gt;Video enconding&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1984" y="786" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-116" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="1982" y="794" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-118" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2032" y="753" width="12" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="Y4munU0hI8EtiIeRVAHa-119" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="2077" y="753" width="12" height="21" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
