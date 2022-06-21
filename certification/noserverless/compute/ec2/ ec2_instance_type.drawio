@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T12:50:11.246Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AuqoGcpWA_gMTW6ZaaUJ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T13:56:13.388Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aqoBj3_tkDqS2dIDOXMa" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
     <mxGraphModel dx="1178" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QvMh1-cBsOVFUleXJhPq-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
-          <mxGeometry x="2805" y="480" width="575" height="150" as="geometry" />
+          <mxGeometry x="2811" y="480" width="559" height="150" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-41" value="&lt;ul&gt;&lt;li&gt;Distributed web-scaled In-Memory Caches&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="2789" y="535" width="280" height="40" as="geometry" />
+          <mxGeometry x="2795" y="535" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-45" value="&lt;ul&gt;&lt;li&gt;Realtime bigdata analitics&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="2789" y="573" width="190" height="40" as="geometry" />
+          <mxGeometry x="2795" y="573" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-40" value="&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Memory Intensive Workload:&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="2785" y="492" width="210" height="40" as="geometry" />
@@ -782,16 +782,16 @@
           <mxGeometry x="2803" y="419" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-38" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="2819" y="483" width="70" height="20" as="geometry" />
+          <mxGeometry x="2825" y="483" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-42" value="SAP, SQL, NoSQL DB" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="2834" y="520" width="130" height="20" as="geometry" />
+          <mxGeometry x="2840" y="520" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-43" value="Mem Cache, Redis" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="2832.27" y="565" width="120" height="20" as="geometry" />
+          <mxGeometry x="2838.27" y="565" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-44" value="Hadoop and Spark" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
-          <mxGeometry x="2832" y="603" width="120" height="20" as="geometry" />
+          <mxGeometry x="2838" y="603" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QvMh1-cBsOVFUleXJhPq-46" value="" style="line;strokeWidth=1;direction=south;html=1;" parent="1" vertex="1">
           <mxGeometry x="3139" y="296" width="1.27" height="19" as="geometry" />
@@ -830,25 +830,25 @@
           <mxGeometry x="3336" y="353" width="12" height="55" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-6" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="3055" y="484" width="30" height="30" as="geometry" />
+          <mxGeometry x="3061" y="484" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-7" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="2874" y="680" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#3399FF;strokeColor=#3399FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3082" y="600" as="sourcePoint" />
-            <mxPoint x="3082" y="488" as="targetPoint" />
+            <mxPoint x="3088" y="600" as="sourcePoint" />
+            <mxPoint x="3088" y="488" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=14;fontColor=#3399FF;strokeColor=#3399FF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="3349" y="600" as="sourcePoint" />
-            <mxPoint x="3349" y="490" as="targetPoint" />
+            <mxPoint x="3355" y="600" as="sourcePoint" />
+            <mxPoint x="3355" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-13" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Memory Intensive app(HP DB)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Midsize in-memory DB&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Enterprise app mid-sized in- memory DB&lt;/li&gt;&lt;/ul&gt;&lt;blockquote style=&quot;margin: 0px 0px 0px 40px; border: none; padding: 0px;&quot;&gt;&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="3072" y="491" width="270" height="70" as="geometry" />
+          <mxGeometry x="3078" y="491" width="270" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
