@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T17:34:29.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SCi9O3vPmV7jZl9NXwnW" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T18:46:10.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KcQlKxcqlWgCz7M6bjey" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
     <mxGraphModel dx="1177" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1059,6 +1059,15 @@
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-100" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="3525" y="813" width="12" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-101" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;HP DB&lt;/li&gt;&lt;li&gt;In-Memory DB(SAP HANA)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;largest instance(SAP Certif)&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3402" y="879" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-102" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3405" y="888" width="210" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-103" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3407" y="891" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
