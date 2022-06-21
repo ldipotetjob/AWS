@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-06-21T17:03:07.631Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ojNa0dQVWRbkt8B62BFc" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-21T17:34:29.920Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SCi9O3vPmV7jZl9NXwnW" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
     <mxGraphModel dx="1177" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-90" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;Electronic design automation&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;traditional static timming analsys&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;full chip gate level simulation&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3162" y="871" width="230" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-47" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 3.5 Ghz&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up to 50% better price&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;than X1 instances&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;NVMe - SSD&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;up 128 vCPU&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Network - up 100 Gbps&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="2798" y="794" width="200" height="80" as="geometry" />
+          <mxGeometry x="2798" y="787" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-17" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 10px;&quot;&gt;up 3.5 Ghz&amp;nbsp;&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;96 vCPU per &lt;br&gt;instance&lt;/span&gt;&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="3361" y="354" width="70" height="50" as="geometry" />
@@ -914,7 +917,7 @@
           <mxGeometry x="2601" y="715" width="1.27" height="19" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-38" value="X2idn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="2852" y="749" width="50" height="20" as="geometry" />
+          <mxGeometry x="2855" y="749" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-39" value="Intel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="2860" y="771" width="40" height="20" as="geometry" />
@@ -935,28 +938,28 @@
           <mxGeometry x="3015" y="753.5" width="12" height="14" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-45" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="2797" y="798" width="12" height="73" as="geometry" />
+          <mxGeometry x="2797" y="793" width="12" height="73" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-46" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="2971" y="800" width="12" height="73" as="geometry" />
+          <mxGeometry x="2971" y="793" width="12" height="73" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="2783" y="891" width="377" height="59" as="geometry" />
+          <mxGeometry x="2794" y="878" width="366" height="62" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-55" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;In-Memory DB(SAP HANA, Redis)&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;tradctional DB(Oracle, Microsoft SQl)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="2803" y="888" width="250" height="70" as="geometry" />
+          <mxGeometry x="2814" y="875" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-56" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="2800" y="895" width="70" height="20" as="geometry" />
+          <mxGeometry x="2811" y="882" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-58" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="733.5" width="900" height="15" as="geometry" />
+          <mxGeometry x="2560" y="733.5" width="1200" height="15" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-59" value="X2gd" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="2541" y="749" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-60" value="AWS&amp;nbsp; Graviton2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="2513" y="771" width="100" height="20" as="geometry" />
+          <mxGeometry x="2511" y="771" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-61" value="lowest cost per GB of memory in EC2&lt;br&gt;55% better performance than x1&lt;br&gt;NVMe -SSD" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="2502" y="793" width="180" height="40" as="geometry" />
@@ -995,7 +998,7 @@
           <mxGeometry x="3083" y="751" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-76" value="Intel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="3084" y="774" width="40" height="20" as="geometry" />
+          <mxGeometry x="3088" y="771" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-77" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 3.5 Ghz&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up to 50% better price&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;than X1 instances&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px; color: rgb(255, 51, 51); background-color: initial;&quot;&gt;up 128 vCPU&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Network - up 100 Gbps&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="3048" y="787" width="120" height="80" as="geometry" />
@@ -1005,6 +1008,57 @@
         </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-79" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="3145" y="793" width="12" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-80" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3247" y="733" width="1.27" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-81" value="X2iezn" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3223" y="750" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-82" value="Intel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3228" y="771" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-86" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 4.5 Ghz&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up to 55% better price&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;than X1 instances&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;Network - up 100 Gbps&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;supports EFA on bigest&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;instances&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3189" y="783" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-87" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3188" y="788" width="12" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-88" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3286" y="788" width="12" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-89" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3173" y="880" width="210" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-91" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3170" y="884" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-92" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3446" y="734" width="1.27" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-93" value="X1e" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3426" y="750" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-94" value="&lt;div style=&quot;&quot;&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;up 2.3 Ghz&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;lowest price per GB of RAM&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;SSD instance storage for&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;temporary backend&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(255, 51, 51); font-size: 10px;&quot;&gt;(at ot additional cost)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3410" y="804" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-95" value="Optimized for large scale DB,&amp;nbsp;&lt;br&gt;in-memory DB and memory &lt;br&gt;intensive DB-app&lt;br&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="3465" y="738.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-96" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3465" y="738.5" width="12" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-97" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3586" y="738.5" width="12" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-98" value="Intel" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3428" y="784" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-99" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3407" y="811" width="12" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="1dhXSzzZDEs2TOiL5ni3-100" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3525" y="813" width="12" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
