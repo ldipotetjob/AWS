@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-24T13:13:32.368Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CPTT3_35VA2Tic5olbxN" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T13:15:30.691Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KqU57Zz6y4BxiyYP8Bcg" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
     <mxGraphModel dx="1463" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -1580,7 +1580,7 @@
           <mxGeometry x="1688.5" y="1208" width="12" height="83" as="geometry" />
         </mxCell>
         <mxCell id="fkAs1J3q1xvZyUNr788a-187" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;rotation=-180;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="1413" y="1317" width="2085" height="15" as="geometry" />
+          <mxGeometry x="1413" y="1317" width="2331" height="15" as="geometry" />
         </mxCell>
         <mxCell id="fkAs1J3q1xvZyUNr788a-188" value="" style="line;strokeWidth=1;direction=south;html=1;" vertex="1" parent="1">
           <mxGeometry x="1545" y="1305" width="1" height="11" as="geometry" />
@@ -1881,6 +1881,18 @@
         </mxCell>
         <mxCell id="fkAs1J3q1xvZyUNr788a-304" value="Use cases:" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="3400" y="1499" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-306" value="H1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3730" y="1334" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-307" value="Deliver high dissk throughput &lt;br&gt;balance compute memory" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="3760" y="1321" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-308" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3759" y="1321" width="12" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-309" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="3880.5" y="1321" width="12" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
