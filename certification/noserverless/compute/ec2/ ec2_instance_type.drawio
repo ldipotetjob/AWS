@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T10:30:15.923Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="isysnbM4y1LrKM81wpXW" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-24T09:45:24.618Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="DKt4ULj8ffKG7APXHkgX" version="20.0.1" type="github">
   <diagram id="QT1x9H8c5nNVxde7SMxW" name="Page-1">
-    <mxGraphModel dx="1149" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1951" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -946,12 +946,6 @@
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-40" value="Memory intensive apps" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" parent="1" vertex="1">
           <mxGeometry x="2900" y="748.5" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1dhXSzzZDEs2TOiL5ni3-41" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
-          <mxGeometry x="1940" y="1020" width="12" height="68" as="geometry" />
-        </mxCell>
-        <mxCell id="1dhXSzzZDEs2TOiL5ni3-42" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" parent="1" vertex="1">
-          <mxGeometry x="2063" y="1022" width="12" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="1dhXSzzZDEs2TOiL5ni3-43" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="2900" y="751.5" width="12" height="14" as="geometry" />
         </mxCell>
@@ -1563,6 +1557,18 @@
         </mxCell>
         <mxCell id="fkAs1J3q1xvZyUNr788a-181" value="&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;Use cases&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: initial;&quot;&gt;:&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
           <mxGeometry x="1226.5" y="1811.25" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-183" value="Instance&lt;br&gt;Storage Optimized" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.instance;" vertex="1" parent="1">
+          <mxGeometry x="1515.5" y="1132" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-184" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;are designed for workload that require high &lt;br&gt;sequencial read and write access&lt;br&gt;for large dataset or local storage&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1446.5" y="1240" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-185" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1444.5" y="1232" width="12" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="fkAs1J3q1xvZyUNr788a-186" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="1667.5" y="1233" width="12" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
