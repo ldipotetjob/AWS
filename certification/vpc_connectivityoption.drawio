@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T16:44:03.763Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PP86UuU6OpULEN2gpSib" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T17:49:07.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CGnl3My6VGn_wqYYCFsA" version="20.0.3" type="github">
   <diagram id="rGe3KuBBRu5CYdZj4_0n" name="Page-1">
     <mxGraphModel dx="1204" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-41" value="This solution simplify&lt;br&gt;management connection&lt;br&gt;between Amazon Vpc &lt;br&gt;and Network&amp;nbsp;over &lt;br&gt;private connection" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="353" width="150" height="90" as="geometry" />
+        </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-1" value="VPC &lt;br&gt;conectivity &lt;br&gt;options" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" vertex="1" parent="1">
           <mxGeometry x="450" y="50" width="60" height="60" as="geometry" />
         </mxCell>
@@ -14,7 +17,7 @@
           <mxGeometry x="30" y="210" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-8" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="61" y="260" width="619" height="15" as="geometry" />
+          <mxGeometry x="61" y="260" width="929" height="15" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -27,30 +30,30 @@
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="263" y="274" as="sourcePoint" />
-            <mxPoint x="263" y="260" as="targetPoint" />
+            <mxPoint x="226" y="274" as="sourcePoint" />
+            <mxPoint x="226" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-12" value="AWS DX&lt;br&gt;&lt;b&gt;+&lt;br&gt;&lt;/b&gt;Transit&lt;br&gt;Gateway&lt;br&gt;&lt;b&gt;+&lt;/b&gt;&lt;br&gt;VPN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="228" y="274" width="70" height="100" as="geometry" />
+          <mxGeometry x="189" y="274" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-14" value="enables end-to-end&lt;br&gt;IPSec- encrypted" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="14" y="322" width="130" height="40" as="geometry" />
+          <mxGeometry x="180" y="378" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="11" y="327" width="12" height="30" as="geometry" />
+          <mxGeometry x="177" y="383" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-16" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="111" y="327" width="10" height="30" as="geometry" />
+          <mxGeometry x="277" y="383" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-17" value="take advance of a VPN endpoint for &lt;br&gt;connecting to multiple VPCs in the &lt;br&gt;same region&amp;nbsp;at not aditional cost" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
-          <mxGeometry x="174" y="374" width="210" height="60" as="geometry" />
+          <mxGeometry x="279" y="512" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-18" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="174" y="382" width="12" height="46" as="geometry" />
+          <mxGeometry x="279" y="520" width="12" height="46" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-19" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="355" y="381" width="12" height="46" as="geometry" />
+          <mxGeometry x="460" y="519" width="12" height="46" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -66,30 +69,69 @@
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="290" as="sourcePoint" />
-            <mxPoint x="940" y="276" as="targetPoint" />
+            <mxPoint x="940" y="223" as="sourcePoint" />
+            <mxPoint x="940" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-23" value="AWS VPN&lt;br&gt;CloudHub" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="403" y="276" width="80" height="40" as="geometry" />
+          <mxGeometry x="441" y="276" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-24" value="Securely comunicate &lt;br&gt;one site to another . &lt;br&gt;Can be used withor &lt;br&gt;without VPC&amp;nbsp;&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="389" y="324" width="130" height="70" as="geometry" />
+          <mxGeometry x="427" y="324" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-25" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="388" y="330" width="12" height="60" as="geometry" />
+          <mxGeometry x="426" y="330" width="12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-26" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="491" y="330" width="12" height="60" as="geometry" />
+          <mxGeometry x="529" y="330" width="12" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-28" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="439" y="274" as="sourcePoint" />
-            <mxPoint x="439" y="260" as="targetPoint" />
+            <mxPoint x="486" y="274" as="sourcePoint" />
+            <mxPoint x="486" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QmvpYYEcJwL0dfFaCKJW-29" value="AWS&amp;nbsp;&lt;br&gt;Direct Connect&lt;br&gt;(DX)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="280" width="100" height="60" as="geometry" />
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-29" value="AWS&amp;nbsp;&lt;br&gt;Direct Connect&lt;br&gt;(DX)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="594" y="275" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-30" value="Can reduce network costs and&lt;br&gt;increase bandwith throughput" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000033;" vertex="1" parent="1">
+          <mxGeometry x="575" y="337" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-31" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="575" y="343" width="12" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-32" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="727" y="343" width="12" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-33" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="638" y="275" as="sourcePoint" />
+            <mxPoint x="638" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-34" value="AWS DX&lt;br&gt;&lt;b&gt;+&lt;br&gt;&lt;/b&gt;Transit&lt;br&gt;Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329" y="437" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="361" y="438" as="sourcePoint" />
+            <mxPoint x="361" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="835" y="274" as="sourcePoint" />
+            <mxPoint x="835" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-38" value="AWS DX&lt;br&gt;&lt;b&gt;+&lt;br&gt;&lt;/b&gt;Transit&lt;br&gt;Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="806" y="275" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-39" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="789" y="360" width="12" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="915" y="360" width="10" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
