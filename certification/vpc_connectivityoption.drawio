@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T17:49:07.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CGnl3My6VGn_wqYYCFsA" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T19:34:32.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="-5kZd1CreIrCHNZeoZt-" version="20.0.3" type="github">
   <diagram id="rGe3KuBBRu5CYdZj4_0n" name="Page-1">
-    <mxGraphModel dx="1204" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1204" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -132,6 +132,9 @@
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="915" y="360" width="10" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-42" value="AWS DX&lt;br&gt;&lt;b&gt;+&lt;/b&gt;&lt;br&gt;VPN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="980" y="370" width="70" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
