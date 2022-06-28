@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T11:07:37.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SCgGzt0DvECXcI8Qcnkn" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T11:28:43.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0t0mwLKeFERxREeDo1Ng" version="20.0.3" type="github">
   <diagram id="ahfcndGCMPXOTyxWDrLU" name="Page-1">
     <mxGraphModel dx="1209" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -167,7 +167,7 @@
           <mxGeometry x="124" y="605" width="50" height="81" as="geometry" />
         </mxCell>
         <mxCell id="DTZgFdQ72hOBGd_lE64p-34" value="VMware Cloud on AWS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.vmware_cloud_on_aws;" vertex="1" parent="1">
-          <mxGeometry x="905.5" y="452" width="50" height="81" as="geometry" />
+          <mxGeometry x="900" y="452" width="50" height="90" as="geometry" />
         </mxCell>
         <mxCell id="DTZgFdQ72hOBGd_lE64p-39" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;© 2022, Scadip SL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. All rights reserved.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="60" y="798" width="230" height="20" as="geometry" />
