@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T11:05:39.228Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_auBk4NO6fVvCTRWQa4u" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T11:07:37.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SCgGzt0DvECXcI8Qcnkn" version="20.0.3" type="github">
   <diagram id="ahfcndGCMPXOTyxWDrLU" name="Page-1">
     <mxGraphModel dx="1209" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -132,15 +132,6 @@
         </mxCell>
         <mxCell id="DTZgFdQ72hOBGd_lE64p-16" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="394" y="605" width="50" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="DTZgFdQ72hOBGd_lE64p-17" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;monitoring and&amp;nbsp;&lt;br&gt;troubleshooting &lt;br&gt;solutions&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="158" y="125" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="DTZgFdQ72hOBGd_lE64p-18" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="166" y="136" width="12" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DTZgFdQ72hOBGd_lE64p-19" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="225" y="135" width="12" height="40" as="geometry" />
         </mxCell>
         <mxCell id="DTZgFdQ72hOBGd_lE64p-20" value="&lt;font color=&quot;#000033&quot;&gt;Facilitates observability for applications &lt;br&gt;and underlying AWS resources. &lt;br&gt;It helps&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000033&quot;&gt;monitoring and&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 51); background-color: initial;&quot;&gt;troubleshooting&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#000033&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;font color=&quot;#000033&quot;&gt;solutions&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="526" y="20" width="200" height="60" as="geometry" />
