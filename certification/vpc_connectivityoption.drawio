@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-29T18:00:45.549Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="oTCaLPtwrSvzaQ5FY3hs" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T18:04:38.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GUZYkZBGO3TifDJdRVSb" version="20.0.3" type="github">
   <diagram id="rGe3KuBBRu5CYdZj4_0n" name="Page-1">
     <mxGraphModel dx="1416" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -453,6 +453,9 @@
         </mxCell>
         <mxCell id="QmvpYYEcJwL0dfFaCKJW-171" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="1836" y="254" width="12" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="QmvpYYEcJwL0dfFaCKJW-172" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;© 2022, Scadip SL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. All rights reserved.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1390" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
