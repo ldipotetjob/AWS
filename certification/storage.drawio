@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T16:11:21.308Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Mfeq_pQZxs4dEmEglkyl" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T16:50:54.222Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="lRIPwtOnMHhFlbcxF6wU" version="20.0.4" type="github">
   <diagram id="dNpaaLyYjejakmgUh9bT" name="Page-1">
     <mxGraphModel dx="1328" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,6 +363,45 @@
         </mxCell>
         <mxCell id="cT7mzf2L48LDg-ybeG4r-104" value="Use cases :&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;backup&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;archivng&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;migration&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;disaster recovery&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="539" y="810" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-106" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1367" y="390" as="sourcePoint" />
+            <mxPoint x="1367" y="354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-110" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="389" width="350" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-111" value="Amazon S3&amp;nbsp;&lt;br&gt;FIle Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1194" y="406" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-112" value="Aamzon Fsx&lt;br&gt;File Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1531" y="406" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-113" value="Tape Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1311" y="406" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-114" value="Volume Gateway" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1421" y="544" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-115" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1357" y="403" as="sourcePoint" />
+            <mxPoint x="1357" y="389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-116" value="" style="endArrow=none;html=1;rounded=0;exitX=0.42;exitY=-0.009;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="cT7mzf2L48LDg-ybeG4r-114">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1467" y="404" as="sourcePoint" />
+            <mxPoint x="1467" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-117" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;store and retrieve objects &lt;br&gt;in Amazon S3 using &lt;br&gt;industry-standard file &lt;br&gt;protocols such as &lt;br&gt;Network File System (NFS) &lt;br&gt;and Server Message Block (SMB)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1175" y="440" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-118" value="&lt;b&gt;provides cloud-backed storage &lt;br&gt;volumes that you can mount as &lt;br&gt;Internet Small Computer System &lt;br&gt;Interface (iSCSI) devices from your &lt;br&gt;on-premises application servers.&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1382" y="570" width="190" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
