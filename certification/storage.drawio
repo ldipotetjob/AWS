@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T15:05:27.943Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PeEPSVbeO4FsVkhGnIIx" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-12T15:06:31.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Zfq2tz0TS3l67noUNkWU" version="20.0.4" type="github">
   <diagram id="dNpaaLyYjejakmgUh9bT" name="Page-1">
     <mxGraphModel dx="1323" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -250,8 +250,8 @@
         <mxCell id="cT7mzf2L48LDg-ybeG4r-69" value="Use cases :&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;backup&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;archivng&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;migration&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;disaster recovery&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="1301" y="328" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="cT7mzf2L48LDg-ybeG4r-75" value="info can be found on&amp;nbsp;&lt;br&gt;datastorage_serverless&amp;nbsp;&lt;br&gt;diagram" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="715" y="227" width="150" height="60" as="geometry" />
+        <mxCell id="cT7mzf2L48LDg-ybeG4r-75" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;info can be found on&amp;nbsp;&lt;br&gt;datastorage_serverless&amp;nbsp;&lt;br&gt;diagram&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="227" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cT7mzf2L48LDg-ybeG4r-76" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
