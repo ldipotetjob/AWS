@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T16:10:12.065Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Xo99JdMJn7uo7WAXzQf1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T16:23:43.905Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="SgDZRJ5Lyofxa6cmAX43" version="20.0.4" type="github">
   <diagram id="NRUUry7xWAZrR5KbMhYG" name="Page-1">
     <mxGraphModel dx="733" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,10 +32,10 @@
           <mxGeometry x="30" y="147" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-13" value="you can reserve capacity that &lt;br&gt;is scheduled to recur daily, &lt;br&gt;weekly, or monthly, with &lt;br&gt;a specified start time and &lt;br&gt;duration, for a one-year&lt;br&gt;&amp;nbsp;term" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="230" y="142" width="190" height="100" as="geometry" />
+          <mxGeometry x="237" y="142" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-14" value="Reduce your Amazon EC2 costs&lt;br&gt;&amp;nbsp;by makinga commitment to a &lt;br&gt;consistent instance configuration, &lt;br&gt;including instance type and Region, &lt;br&gt;for a term of 1 or 3 years." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="425" y="135" width="230" height="90" as="geometry" />
+          <mxGeometry x="424" y="135" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-15" value="Request unused EC2&lt;br&gt;&amp;nbsp;instances, which can &lt;br&gt;reduce your Amazon &lt;br&gt;EC2 costs significantly." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="717" y="135" width="160" height="70" as="geometry" />
@@ -102,6 +102,12 @@
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1207" y="221" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CTkGnxyHy4XQXVknj4H4-41" value="If you require a capacity reservation, purchase Reserved Instances or &lt;br&gt;Capacity Reservations for a specific Availability Zone" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="251" y="243" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CTkGnxyHy4XQXVknj4H4-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;strokeColor=default;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="241" width="400" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
