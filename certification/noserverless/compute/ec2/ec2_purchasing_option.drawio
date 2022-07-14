@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-14T15:14:52.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="M9E_RsWaGTa10CQVNTQ1" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-14T15:16:15.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ggzSy0bau3sfqFeZGQ0P" version="20.0.4" type="github">
   <diagram id="NRUUry7xWAZrR5KbMhYG" name="Page-1">
     <mxGraphModel dx="801" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,25 +29,25 @@
           <mxGeometry x="1184" y="107" width="147" height="22" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-12" value="Pay, by the second, &lt;br&gt;for the instances that &lt;br&gt;you launch." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3" y="155" width="140" height="60" as="geometry" />
+          <mxGeometry x="30" y="135" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-13" value="Reduce your Amazon EC2 costs by making &lt;br&gt;a commitment to a consistent amount of usage, &lt;br&gt;in USD per hour, for a term of 1 or 3 years." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="153" y="144" width="300" height="60" as="geometry" />
+          <mxGeometry x="185" y="135" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-14" value="Reduce your Amazon EC2 costs&lt;br&gt;&amp;nbsp;by makinga commitment to a &lt;br&gt;consistent instance configuration, &lt;br&gt;including instance type and Region, &lt;br&gt;for a term of 1 or 3 years." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="469" y="144" width="230" height="90" as="geometry" />
+          <mxGeometry x="469" y="135" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-15" value="Request unused EC2&lt;br&gt;&amp;nbsp;instances, which can &lt;br&gt;reduce your Amazon &lt;br&gt;EC2 costs significantly." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="717" y="144" width="160" height="70" as="geometry" />
+          <mxGeometry x="717" y="135" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-16" value="Pay for a physical host that is fully &lt;br&gt;dedicated to running your instances, &lt;br&gt;and bring your existing per-socket, &lt;br&gt;per-core, or per-VM software licenses &lt;br&gt;to reduce costs." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="895" y="144" width="240" height="90" as="geometry" />
+          <mxGeometry x="895" y="135" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-17" value="Reserve capacity for your EC2 instances in&lt;br&gt;&amp;nbsp;a specific Availability Zone for any duration." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1118" y="144" width="280" height="40" as="geometry" />
+          <mxGeometry x="1118" y="135" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-19" value="Pay, by the hour, for instances that &lt;br&gt;run on single-tenant hardware." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1405" y="155" width="220" height="40" as="geometry" />
+          <mxGeometry x="1405" y="135" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="90" y="91" width="1420" height="15" as="geometry" />
