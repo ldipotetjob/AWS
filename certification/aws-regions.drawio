@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-16T12:18:22.755Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GqkxypZzBDHeS29p68Jj" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-16T12:19:51.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="abVqOzvMdcWcGh8nhSTP" version="20.1.1" type="github">
   <diagram id="hIb0X44di-LDGK0pbfDk" name="Page-1">
     <mxGraphModel dx="1251" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="ft6hEPbkMp-w6Tqpr93w-5" value="Sao Paulo" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="433" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ft6hEPbkMp-w6Tqpr93w-7" value="&lt;h2 style=&quot;box-sizing: border-box; margin: 0px; line-height: 27px; color: rgb(51, 51, 51); font-family: AmazonEmber, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start;&quot;&gt;Cape Town&lt;/h2&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="730" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ft6hEPbkMp-w6Tqpr93w-8" value="Cape Town" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="633" y="465" width="70" height="30" as="geometry" />
@@ -27,6 +24,9 @@
         </mxCell>
         <mxCell id="ft6hEPbkMp-w6Tqpr93w-13" value="Canada West" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="244" y="203" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ft6hEPbkMp-w6Tqpr93w-14" value="refrerencia para completar grafico:&lt;br&gt;&lt;b&gt;https://aws.amazon.com/about-aws/global-infrastructure/&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="710" width="350" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
