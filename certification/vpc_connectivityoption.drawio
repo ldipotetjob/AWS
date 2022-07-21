@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-21T10:34:01.227Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4X-0vsXW5Jsc0muIPopJ" version="20.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-21T10:51:22.963Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MEOzs6lslm3tkOFD33-5" version="20.1.4" type="github">
   <diagram id="rGe3KuBBRu5CYdZj4_0n" name="Page-1">
-    <mxGraphModel dx="1205" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="799" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -461,6 +461,33 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1470" y="259" as="sourcePoint" />
             <mxPoint x="1470" y="239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="691.5" y="973.5" width="37" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-3" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1048.5" width="37" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-5" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815.5" y="976.5" width="37" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720.5" y="1021.5" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_peering;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="797.5" y="1020.5" width="22" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="781.5" y="1057.5" as="sourcePoint" />
+            <mxPoint x="831.5" y="1007.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XpaLhZ1Bw4oVxi968HCS-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="748.5" y="1060.5" as="sourcePoint" />
+            <mxPoint x="713.5" y="1003.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
