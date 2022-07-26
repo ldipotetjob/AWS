@@ -1,14 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T16:50:38.643Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kmghhZ1VMp2a9OnD_LHr" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T17:31:03.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VMQEem7Hr52Rhsu2ygDy" version="20.2.0" type="github">
   <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
     <mxGraphModel dx="1221" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PQI0NZv1REfv9DwnelCF-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="989" y="176" width="50" height="141" as="geometry" />
+        </mxCell>
         <mxCell id="PQI0NZv1REfv9DwnelCF-16" value="Dedicated, hardware-based &lt;br&gt;cryptographic key storage&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="373" y="117.5" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PQI0NZv1REfv9DwnelCF-1" value="Data Encription" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="480" y="30" width="110" height="30" as="geometry" />
+          <mxGeometry x="484" y="30" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQI0NZv1REfv9DwnelCF-2" value="AWS Key Management Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.key_management_service;" vertex="1" parent="1">
           <mxGeometry x="216" y="120" width="35" height="75" as="geometry" />
@@ -60,6 +63,57 @@
         </mxCell>
         <mxCell id="PQI0NZv1REfv9DwnelCF-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="511" y="121.5" width="12" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="67" as="sourcePoint" />
+            <mxPoint x="740" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-18" value="Encripted Message Queue" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673" y="117.5" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-20" value="" style="points=[[0.35,0,0],[0.98,0.51,0],[1,0.71,0],[0.67,1,0],[0,0.795,0],[0,0.65,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.user;fillColor=#005073;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="697" y="221" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="752" y="241" as="sourcePoint" />
+            <mxPoint x="870" y="241" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-23" value="&lt;b&gt;SQS&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=none;gradientDirection=north;fillColor=#000000;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.sqs;" vertex="1" parent="1">
+          <mxGeometry x="878" y="217" width="46" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="927" y="242" as="sourcePoint" />
+            <mxPoint x="987" y="242" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-25" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;strokeColor=default;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="180" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-26" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;strokeColor=default;fillColor=#000000;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="260" width="28.000000000000004" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-28" value="&lt;b&gt;SSE&lt;/b&gt;: Server-side encryption is the encryption of data at&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;its destination by the application or service thatreceives it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="360" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-29" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;gradientColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="855" y="134" width="225" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-30" value="&lt;b&gt;SSE&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="924" y="149" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-31" value="Encrypted message queues for &lt;br&gt;the transmission of sensitive data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="663" y="145" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-32" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="673" y="150" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-33" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="841" y="151" width="12" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
