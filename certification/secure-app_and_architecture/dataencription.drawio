@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T15:53:18.203Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Oztf8yUPE9SA3u1nUrMd" version="20.2.0" type="github"><diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">jZJNT4QwEIZ/DUcToGsNR0VcPeiFg14bOtImLcVuEfDXW+wUlmw2MSGh88xHZ95OQko9HS3rxavhoJI85VNCHpM8z/znfwuZA6EpDaC1kmPQBmr5AwhTpIPkcNoFOmOUk/0eNqbroHE7xqw14z7s06j9rT1r4QLUDVOX9F1yJwLNCaGb4xlkK+LV9PYQPJrFaBzlJBg34xkiVUJKa4wLJz2VoBb1ojAh7+mKd+3MQuf+k/DVlbSaxFG/meG+KNhH2r7cYJVvpgacGJt1c5RgFNJB3bNmsUf/zAl5EE4rb2X+iAXAOpiudpat8/pNAaPB2dmHYMLhDiXCJSEF2uMmeRZlFGdqU2QMX7ldS286+ANKEc1N8j/f2eaS6hc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-26T16:27:22.753Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7S7ghWPpLlascfOwH66c" version="20.2.0" type="github">
+  <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
+    <mxGraphModel dx="1221" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PQI0NZv1REfv9DwnelCF-16" value="Dedicated, hardware-based &lt;br&gt;cryptographic key storage&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="660" y="120" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-1" value="Data Encription" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="26" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-2" value="AWS Key Management Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.key_management_service;" vertex="1" parent="1">
+          <mxGeometry x="216" y="120" width="35" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-3" value="AWS CloudHSM" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudhsm;" vertex="1" parent="1">
+          <mxGeometry x="620" y="120" width="35" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-5" value="Aws manage&amp;nbsp;&lt;br&gt;encription keys" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="225" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-6" value="you keep complete &lt;br&gt;control over your own keys" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="258" y="225" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="228" as="sourcePoint" />
+            <mxPoint x="210" y="193" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="278" y="229" as="sourcePoint" />
+            <mxPoint x="260" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <mxPoint x="410" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="130" as="sourcePoint" />
+            <mxPoint x="470" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-11" value="Flexible key &lt;br&gt;management options" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="95" y="121" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-12" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="95" y="124" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-13" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="198" y="125" width="12" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-14" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="124" width="12" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="PQI0NZv1REfv9DwnelCF-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="798" y="124" width="12" height="29" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
