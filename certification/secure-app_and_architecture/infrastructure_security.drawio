@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T14:33:13.802Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="74-_Oz9IROINEDEo9EAH" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-27T11:46:50.754Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="hzB0NTYfzDV2csDYsv6I" version="20.2.0" type="github">
   <diagram id="qvYg9TJNYh_p_2qdCzhL" name="Page-1">
-    <mxGraphModel dx="10476" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="10771" dy="2260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hk6j71dAJvdS6BKl5xrb-3" value="Infrastructure&amp;nbsp;&lt;br style=&quot;font-size: 13px;&quot;&gt;security" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=none;gradientColor=default;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="-8668" y="-1566" width="120" height="60" as="geometry" />
+          <mxGeometry x="-8296" y="-1590" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hk6j71dAJvdS6BKl5xrb-4" value="&lt;font color=&quot;#000000&quot;&gt;VPC&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#000000;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="-9116" y="-1290" width="260" height="160" as="geometry" />
