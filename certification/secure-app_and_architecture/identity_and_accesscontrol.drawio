@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T15:58:55.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RphwoNamfUZEPg5RVF_Z" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T16:03:42.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MlUm6y3M21xf5-8j7Dbl" version="20.2.2" type="github">
   <diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">
     <mxGraphModel dx="804" dy="640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,6 +42,12 @@
         </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-18" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="185" y="127.5" width="12" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-19" value="AWS SSO is ideal for managing multiple AWS accounts in&amp;nbsp;&lt;br&gt;AWS Organization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="681.5" y="235" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-20" value="&lt;font color=&quot;#000000&quot;&gt;web service that helps you securely &lt;br&gt;control access to AWS resources&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="12" y="150.5" width="190" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
