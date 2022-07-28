@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T17:21:58.191Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="aWxX-0o1UDRrO3cripc3" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T17:23:54.037Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="k1v8J-To1g24EBwRRdv-" version="20.2.2" type="github">
   <diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">
     <mxGraphModel dx="890" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,10 +29,10 @@
           <mxGeometry x="459" y="11" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b style=&quot;&quot;&gt;AWS Directory Service provides multiple&lt;br&gt;&amp;nbsp;ways to use Microsoft Active Directory (AD) &lt;br&gt;or&amp;nbsp;&amp;nbsp;for customers who want to use existing &lt;br&gt;Microsoft AD or Lightweight Directory &lt;br&gt;Access Protocol (LDAP)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="158.5" width="230" height="90" as="geometry" />
+          <mxGeometry x="460" y="167.5" width="230" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-12" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;Centrally manage workforce access to&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;multiple AWS accounts and applications.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;You connnect users and groups to&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;AWS&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;in ONE place&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="901" y="166.5" width="240" height="70" as="geometry" />
+          <mxGeometry x="862" y="184.5" width="240" height="70" as="geometry" />
         </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-14" value="Identity Access&lt;br&gt;management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="130" y="114" width="90" height="40" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="197" y="122.5" width="12" height="24" as="geometry" />
         </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-19" value="AWS SSO is ideal for managing multiple AWS accounts in&amp;nbsp;&lt;br&gt;AWS Organization" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="894" y="226" width="300" height="40" as="geometry" />
+          <mxGeometry x="862" y="244" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-20" value="&lt;font color=&quot;#000000&quot;&gt;web service that helps you securely &lt;br&gt;control access to AWS resources&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="37" y="166.5" width="190" height="40" as="geometry" />
