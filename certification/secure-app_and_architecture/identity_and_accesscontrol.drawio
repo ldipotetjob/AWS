@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T02:04:13.039Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xVwe8j5Ru2qIn4le5vOp" version="20.2.0" type="github"><diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">jZNNc4IwEIZ/DcfOCBGtx4K2Xjo92Bmnp05KVpJpYDEEQX99gywiOs70xObZz+wbPBZnzZvhhXxHAdoLJqLx2NILAj8IffdpybEjcxZ2IDVKUNAANuoEBCdEKyWgHAVaRG1VMYYJ5jkkdsS4MViPw3aox10LnsId2CRc39OtElYSnYXTwbEGlcq+tT9bdJ6M99F0lVJygfUVYiuPxQbRdlbWxKDb7fWL6fJeH3gvkxnI7X8SPvbb/T6p1+Y5CmT4Zb4jWT1RlQPXFd34ExpLA9tjvwbbQhZJm2kHfGdyrdLc2YnrDsaBAxir3OJeyJEpIdr0yECpTvznXGrizgWq3J5lCSMvXLa1KotlJ31burQGfyFGja7uMse8rbJTWt8gGt31hebhTvzLpt0bBczAmqMLoYRwQeLQ82RzOteD2FNC8krmXlNOzyu9VB4EcAZp0B8Hrc++q1+Grf4A</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-28T12:39:17.733Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TLlU3xcCd1ymB0pxetyp" version="20.2.2" type="github">
+  <diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">
+    <mxGraphModel dx="973" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KO169NFU9r2nEMWuAxQc-1" value="Identity and Access Control" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="35" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-2" value="IAM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="69" y="120" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-3" value="AWS Directory &lt;br&gt;Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345.5" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-4" value="AWS Single&amp;nbsp;&lt;br&gt;Sign-On" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="120" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-5" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;AWS Directory Service provides multiple&lt;br&gt;&amp;nbsp;ways to use Microsoft Active Directory (AD) &lt;br&gt;or&amp;nbsp;&amp;nbsp;for customers who want to use existing &lt;br&gt;Microsoft AD or Lightweight Directory &lt;br&gt;Access Protocol (LDAP)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="152" width="230" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
