@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T14:19:36.343Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PwqEupTfBMBoJtzV4sKi" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T19:53:46.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ofvZxm92SViLscmUbXOM" version="20.2.2" type="github">
   <diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">
     <mxGraphModel dx="916" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cayYK2lsRnTGkKL964Ff-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="1">
+          <mxGeometry x="747" y="504.5" width="190" height="115.5" as="geometry" />
+        </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-47" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="242" y="571" width="150" height="50" as="geometry" />
         </mxCell>
@@ -171,32 +174,14 @@
         <mxCell id="KO169NFU9r2nEMWuAxQc-58" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;fontColor=#000000;fillColor=none;direction=south;" parent="1" vertex="1">
           <mxGeometry x="142" y="50" width="823" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="850" y="426" width="105" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-4" value="Principle of&lt;br&gt;least privilege" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-16">
-          <mxGeometry y="1" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-16">
-          <mxGeometry width="105" height="42" as="geometry" />
-        </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="825" y="358" width="130" height="53" as="geometry" />
+          <mxGeometry x="800" y="387" width="130" height="53" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-3" value="Consider using&lt;br&gt;an Identity provider" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-17">
           <mxGeometry y="3" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-17">
           <mxGeometry x="7.5" width="115.5" height="53" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="754" y="517.5" width="177" height="89" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-7" value="Just for provide a way to&lt;br&gt;create and manage users,&lt;br&gt;groups and roles to&amp;nbsp;&lt;br&gt;access rsources 2 aws" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-21">
-          <mxGeometry x="8.5" y="12" width="160" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-20" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-21">
-          <mxGeometry width="177" height="89" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="570" y="524" width="150" height="67" as="geometry" />
@@ -206,15 +191,6 @@
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-22">
           <mxGeometry x="5" width="140" height="67" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-23" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="650" y="411" width="120" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-6" value="use&amp;nbsp; IAM only for&amp;nbsp;&lt;br&gt;what it is&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-23">
-          <mxGeometry y="5" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-23">
-          <mxGeometry x="5" width="105" height="42" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -246,44 +222,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-27" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="cayYK2lsRnTGkKL964Ff-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="350" as="sourcePoint" />
-            <mxPoint x="740" y="411" as="targetPoint" />
+            <mxPoint x="700" y="350" as="sourcePoint" />
+            <mxPoint x="750" y="440" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="740" y="370.5" />
-              <mxPoint x="710" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-28" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="720" y="340" as="sourcePoint" />
-            <mxPoint x="840" y="504.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="780" y="384.5" />
-              <mxPoint x="790" y="420" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-29" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=-0.049;entryY=-0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="cayYK2lsRnTGkKL964Ff-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="740" y="330" as="sourcePoint" />
-            <mxPoint x="820" y="424.5" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="760" y="330" />
-              <mxPoint x="770" y="340" />
+              <mxPoint x="716" y="377" />
+              <mxPoint x="726" y="387" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-30" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="730" y="310" as="sourcePoint" />
-            <mxPoint x="870" y="350" as="targetPoint" />
+            <mxPoint x="720" y="339" as="sourcePoint" />
+            <mxPoint x="830" y="390" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="850" y="290" />
-              <mxPoint x="860" y="330" />
+              <mxPoint x="750" y="379" />
+              <mxPoint x="860" y="339" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-4" value="Principle of&lt;br&gt;least privilege" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="717" y="445" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="1">
+          <mxGeometry x="717" y="444" width="105" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-7" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;use&amp;nbsp; IAM only for&amp;nbsp;&lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;what it is&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;Just for provide a way to&lt;br&gt;create and manage users,&lt;br&gt;groups and roles to&amp;nbsp;&lt;br&gt;access resources to aws" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="752.9974011299435" y="509.49932584269663" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="789" y="488" as="sourcePoint" />
+            <mxPoint x="799" y="508" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
