@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-07-29T21:33:42.462Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ULDQ9zl_Pe9ZV_1CVlKx" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T21:41:23.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="97oTzx7KoZ_CAo8xK6PW" version="20.2.2" type="github">
   <diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">
-    <mxGraphModel dx="1251" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cayYK2lsRnTGkKL964Ff-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=#00994D;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="842" y="580" width="260" height="37" as="geometry" />
+        </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=#F58534;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="290" width="670" height="490" as="geometry" />
         </mxCell>
@@ -201,11 +204,8 @@
         <mxCell id="cayYK2lsRnTGkKL964Ff-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=#00994D;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="843" y="523" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-50" value="Use IAM Access Analyzer to generate &lt;br&gt;least-privilege&amp;nbsp;policies based on access activity" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="cayYK2lsRnTGkKL964Ff-50" value="Use IAM &lt;b&gt;Access Analyzer&lt;/b&gt; to generate &lt;br&gt;least-privilege&amp;nbsp;policies based on access activity" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="844" y="577" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-51" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=#00994D;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="842" y="580" width="260" height="37" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-52" value="Regularly review and remove unused users,&lt;br&gt;&amp;nbsp;roles, permissions, policies, and credentials" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="833" y="641" width="260" height="40" as="geometry" />
