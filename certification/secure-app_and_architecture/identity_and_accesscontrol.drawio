@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T18:43:15.702Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RGentR8PZobVX0uCiyZr" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-29T13:54:16.772Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jCP5XWFzPmM1Wly5hrYN" version="20.2.2" type="github">
   <diagram id="OgJnFtuqC-TfCC11IxQE" name="Page-1">
-    <mxGraphModel dx="804" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="916" dy="630" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,29 +141,14 @@
         <mxCell id="KO169NFU9r2nEMWuAxQc-57" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;fontSize=12;fontColor=#000000;strokeColor=#F58534;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="366" y="560" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KO169NFU9r2nEMWuAxQc-58" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;fontColor=#000000;fillColor=none;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="107" y="54" width="823" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="KO169NFU9r2nEMWuAxQc-60" value="" style="endArrow=none;html=1;rounded=0;fontSize=12;fontColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="526" y="84" as="sourcePoint" />
             <mxPoint x="526" y="71" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KO169NFU9r2nEMWuAxQc-61" value="IAM best Practices" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="539" y="356" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-1" value="Lock down&lt;br&gt;aws root user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="439" y="457" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-2" value="Use IAM Roles &lt;br&gt;when posssible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="530" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-3" value="Consider using&lt;br&gt;an Identity provider" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="585" y="460" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cayYK2lsRnTGkKL964Ff-4" value="Principle of&lt;br&gt;least privilege" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="540" width="100" height="40" as="geometry" />
+        <mxCell id="KO169NFU9r2nEMWuAxQc-61" value="&lt;b&gt;IAM best Practices&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="580" y="307" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-5" value="grant only the&amp;nbsp;&lt;br&gt;necessary permissions&lt;br&gt;to do a particular job" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="575" y="580" width="150" height="60" as="geometry" />
@@ -172,7 +157,52 @@
           <mxGeometry x="760" y="530" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cayYK2lsRnTGkKL964Ff-7" value="Just for provide a way to&lt;br&gt;create and manage users,&lt;br&gt;groups and roles to&amp;nbsp;&lt;br&gt;access rsources 2 aws" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="760" y="575" width="160" height="70" as="geometry" />
+          <mxGeometry x="762.5" y="640" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-11" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="430" y="372" width="105" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-1" value="Lock down&lt;br&gt;aws root user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-11">
+          <mxGeometry y="1" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-8" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-11">
+          <mxGeometry width="105" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="504" y="466" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-2" value="Use IAM Roles &lt;br&gt;when posssible" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-12">
+          <mxGeometry y="3" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-9" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-12">
+          <mxGeometry width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="KO169NFU9r2nEMWuAxQc-58" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;fontColor=#000000;fillColor=none;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="107" y="54" width="823" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-16" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="790" y="424" width="105" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-4" value="Principle of&lt;br&gt;least privilege" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-16">
+          <mxGeometry y="1" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-15" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-16">
+          <mxGeometry width="105" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="610" y="373" width="130" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-3" value="Consider using&lt;br&gt;an Identity provider" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-17">
+          <mxGeometry y="3" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-10" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="cayYK2lsRnTGkKL964Ff-17">
+          <mxGeometry x="7.5" width="115.5" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-18" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="140" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="cayYK2lsRnTGkKL964Ff-19" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#F58534;" vertex="1" parent="1">
+          <mxGeometry x="765" y="525" width="105" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
