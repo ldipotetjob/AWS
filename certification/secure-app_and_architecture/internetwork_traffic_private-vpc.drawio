@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T19:25:59.533Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Kbmz63buAhEfGT1ryg9H" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-30T19:33:23.379Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HhQ9AT2_PCa-t1v37GGQ" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
-    <mxGraphModel dx="815" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1984" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="36" y="272" width="250" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="168" width="230" height="62" as="geometry" />
+          <mxGeometry x="850" y="167" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="170" width="280" height="70" as="geometry" />
+          <mxGeometry x="140" y="170" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-2" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Increasing and&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Monitoring security&amp;nbsp; &lt;br&gt;on&amp;nbsp;&lt;/span&gt;VPC&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
           <mxGeometry x="410" y="30" width="50" height="50" as="geometry" />
@@ -23,16 +23,16 @@
           <mxGeometry x="150" y="188" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-8" value="Network access &lt;br&gt;control lists (&lt;b&gt;ACL&lt;/b&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="286" y="188" width="120" height="40" as="geometry" />
+          <mxGeometry x="502" y="188" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-9" value="Flow logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="545" y="185" width="70" height="30" as="geometry" />
+          <mxGeometry x="865" y="184" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="639" y="185" width="110" height="30" as="geometry" />
+          <mxGeometry x="959" y="184" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="589" y="154" width="80" height="30" as="geometry" />
+          <mxGeometry x="909" y="153" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-14" value="Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="238" y="153" width="70" height="30" as="geometry" />
@@ -102,6 +102,9 @@
             <mxPoint x="150" y="636" as="sourcePoint" />
             <mxPoint x="150" y="607" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-25" value="Use network ACLs to control access to your subnets &lt;br&gt;and use security groups to control traffic to EC2 instances&lt;br&gt;&amp;nbsp;in your subnets." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-1.5" y="664" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
