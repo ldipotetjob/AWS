@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T11:58:02.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="m6p7uKPY7rqthu44C5oJ" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T15:44:48.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ugltmI46Ah1lmAagm9Kf" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
-    <mxGraphModel dx="2318" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2453" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-15" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=default;strokeColor=#00994D;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-701" y="449" width="290" height="51" as="geometry" />
+        </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-690" y="232" width="240" height="58" as="geometry" />
         </mxCell>
@@ -38,7 +41,7 @@
           <mxGeometry x="-622" y="178.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="178" width="110" height="30" as="geometry" />
+          <mxGeometry x="-170" y="175" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1548.5" y="406" width="406.3599999999999" height="180" as="geometry" />
@@ -245,7 +248,7 @@
           <mxGeometry x="-1185.5" y="155" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-410" y="155" width="80" height="30" as="geometry" />
+          <mxGeometry x="-410" y="151" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -302,6 +305,27 @@
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-12" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="-571" y="377" width="45" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-13" value="&lt;b&gt;Flow log data is collected outside of the path of &lt;br&gt;your network traffic, and therefore does not affect&lt;br&gt;network throughput or latency&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-699" y="444" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-589" y="231" as="sourcePoint" />
+            <mxPoint x="-589" y="208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-17" value="If you create &lt;b&gt;a&lt;/b&gt; &lt;b&gt;flow log&lt;/b&gt; for&lt;b&gt; a subnet&lt;/b&gt; or &lt;b&gt;VPC&lt;/b&gt;, each &lt;br&gt;network interface in that subnet or VPC, is monitored&lt;br&gt;describing&amp;nbsp;the traffic flow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-696" y="512" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Flow log data for a monitored network &lt;br&gt;interface&amp;nbsp;is recorded as flow log records&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="287" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-19" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="295" width="12" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-348" y="295" width="12" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
