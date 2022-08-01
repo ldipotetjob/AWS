@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T15:44:48.636Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ugltmI46Ah1lmAagm9Kf" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T15:54:55.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IFz60In9e7CbgD0-wTSq" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
     <mxGraphModel dx="2453" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -274,8 +274,8 @@
             <mxPoint x="-1159" y="882" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMgCK0aEijrdPxdoYDGV-5" value="&lt;font color=&quot;#000000&quot;&gt;Enables you to capture information about &lt;br&gt;the IP traffic going to and from network &lt;br&gt;interfaces in your VPC.&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="-686" y="232" width="240" height="60" as="geometry" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-5" value="&lt;font color=&quot;#000000&quot;&gt;Enables you to capture information about &lt;br&gt;the IP traffic going to and from network &lt;br&gt;interfaces in your VPC. (l&lt;b&gt;ogging&lt;/b&gt; IP traffic)&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-686" y="232" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-7" value="Log Data collected&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-654" y="295" width="130" height="30" as="geometry" />
