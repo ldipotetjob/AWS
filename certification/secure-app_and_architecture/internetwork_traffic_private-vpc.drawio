@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T09:24:03.827Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MiEBowk3CCDc8nsAKFPU" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T09:24:40.386Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="o-dl4yAdER8kwmYmtPLr" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
     <mxGraphModel dx="2236" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-708.5" y="167" width="230" height="62" as="geometry" />
+          <mxGeometry x="-659.5" y="167" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1106.5" y="339" width="336.5" height="201" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="-1027.5" y="188" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-9" value="Flow logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-693.5" y="184" width="70" height="30" as="geometry" />
+          <mxGeometry x="-644.5" y="184" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-599.5" y="184" width="110" height="30" as="geometry" />
+          <mxGeometry x="-550.5" y="184" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1548.5" y="406" width="406.3599999999999" height="180" as="geometry" />
@@ -242,7 +242,7 @@
           <mxGeometry x="-1185.5" y="155" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-649.5" y="152" width="80" height="30" as="geometry" />
+          <mxGeometry x="-600.5" y="152" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
