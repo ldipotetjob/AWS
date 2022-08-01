@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T15:54:55.746Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IFz60In9e7CbgD0-wTSq" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T16:17:38.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XBao6cKqfbkGCQHvCRR8" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
-    <mxGraphModel dx="2453" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2662" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,18 @@
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
           <mxGeometry x="-348" y="295" width="12" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cons when using flow logs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=11;fontColor=default;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="580" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-26" value="&lt;b&gt;After you create a flow log, it can take several&amp;nbsp; minutes to begin collecting and publishing data to the chosen destinations. Flow logs do not capture real-time log streams for your network &lt;br&gt;interfaces.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=default;strokeColor=default;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="638" width="290" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-27" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;Flow log has to many limitations so this diagram is&lt;br&gt;just an overview in a way that you can get an idea&lt;br&gt;about different perspectives on how to&amp;nbsp; log IP traffic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-696" y="732" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Find more info:&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;a href=&quot;https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html&quot;&gt;https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-707" y="779" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
