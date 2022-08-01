@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T23:53:39.993Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FbSDL2hgL1vpISbHl_aX" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T23:58:57.588Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RuKkdjko8MOjViHtFWMX" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
     <mxGraphModel dx="2681" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-13" value="&lt;b&gt;Flow log data is collected outside of the path of &lt;br&gt;your network traffic, and therefore does not affect&lt;br&gt;network throughput or latency&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="444" width="310" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-30" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-310" y="234" width="204" height="50" as="geometry" />
         </mxCell>
@@ -309,9 +312,6 @@
         <mxCell id="yMgCK0aEijrdPxdoYDGV-12" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="-623" y="377" width="45" height="72" as="geometry" />
         </mxCell>
-        <mxCell id="yMgCK0aEijrdPxdoYDGV-13" value="&lt;b&gt;Flow log data is collected outside of the path of &lt;br&gt;your network traffic, and therefore does not affect&lt;br&gt;network throughput or latency&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-751" y="444" width="310" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-641" y="231" as="sourcePoint" />
@@ -390,26 +390,29 @@
             <mxPoint x="-150" y="386" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yMgCK0aEijrdPxdoYDGV-44" value="&lt;div&gt;Simplified operation because can be mirrored&amp;nbsp; any range of your VPC traffic&amp;nbsp;&lt;/div&gt;&lt;div&gt;without having to manage packet forwarding agents on your EC2 instances.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Enhanced security — Capture packets at the elastic network interface, which cannot be disabled or tampered with from a user space.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Increased monitoring options — Send your mirrored traffic to any security device.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-332" y="644" width="610" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-45" value="&lt;div&gt;&lt;b&gt;Simplified operation&lt;/b&gt; because can be mirrored&amp;nbsp; any range of&amp;nbsp;&lt;/div&gt;&lt;div&gt;your VPC traffic&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;without having to manage packet forwarding&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;agents on your EC2 instances.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-336" y="471" width="300" height="50" as="geometry" />
+          <mxGeometry x="-324" y="494" width="300" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-46" value="Capture packets at the elastic network interface, which &lt;br&gt;cannot be disabled or tampered with from a user space&amp;nbsp;&lt;br&gt;so in that way the &lt;b&gt;security is enhanced&lt;/b&gt;.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-336" y="512" width="270" height="50" as="geometry" />
+          <mxGeometry x="-324" y="535" width="270" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-47" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="-371" y="468" width="40" height="40" as="geometry" />
+          <mxGeometry x="-359" y="491" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-48" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="-372" y="509" width="40" height="40" as="geometry" />
+          <mxGeometry x="-360" y="532" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-49" value="Increase the&amp;nbsp; monitoring options&amp;nbsp; because it &lt;br&gt;sends&amp;nbsp; your mirrored traffic to any security device." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-335" y="555" width="240" height="40" as="geometry" />
+          <mxGeometry x="-323" y="578" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-50" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
-          <mxGeometry x="-370" y="550" width="40" height="40" as="geometry" />
+          <mxGeometry x="-358" y="573" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-51" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=default;strokeColor=#00994D;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-353" y="486" width="313" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-53" value="Why apply traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="470" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
