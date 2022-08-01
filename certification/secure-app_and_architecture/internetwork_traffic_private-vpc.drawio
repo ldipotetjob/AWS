@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T16:17:38.512Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="XBao6cKqfbkGCQHvCRR8" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T17:30:25.044Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GSfkAikRuhzn-Jz0M-5q" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
-    <mxGraphModel dx="2662" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2490" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="-690" y="232" width="240" height="58" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-680" y="167" width="630" height="53" as="geometry" />
+          <mxGeometry x="-680" y="167" width="600" height="53" as="geometry" />
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1106.5" y="339" width="336.5" height="201" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="-1418.5" y="170" width="560" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-2" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Increasing and&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Monitoring security&amp;nbsp; &lt;br&gt;on&amp;nbsp;&lt;/span&gt;VPC&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
-          <mxGeometry x="-1148.5" y="30" width="50" height="50" as="geometry" />
+          <mxGeometry x="-761" y="15" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-7" value="Security groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1408.5" y="188" width="100" height="40" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="-622" y="178.5" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="175" width="110" height="30" as="geometry" />
+          <mxGeometry x="-218" y="178.5" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1548.5" y="406" width="406.3599999999999" height="180" as="geometry" />
@@ -275,7 +275,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-5" value="&lt;font color=&quot;#000000&quot;&gt;Enables you to capture information about &lt;br&gt;the IP traffic going to and from network &lt;br&gt;interfaces in your VPC. (l&lt;b&gt;ogging&lt;/b&gt; IP traffic)&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="-686" y="232" width="250" height="60" as="geometry" />
+          <mxGeometry x="-685" y="232" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-7" value="Log Data collected&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-654" y="295" width="130" height="30" as="geometry" />
@@ -338,6 +338,12 @@
         </mxCell>
         <mxCell id="yMgCK0aEijrdPxdoYDGV-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Find more info:&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;a href=&quot;https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html&quot;&gt;https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-707" y="779" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-29" value="&lt;font color=&quot;#000000&quot;&gt;Let you&amp;nbsp; copy network traffic from an &lt;br&gt;elastic network&amp;nbsp;interface of type &lt;br&gt;interface&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FF3333;rounded=0;arcSize=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-262" y="230" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-30" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-266" y="234" width="204" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
