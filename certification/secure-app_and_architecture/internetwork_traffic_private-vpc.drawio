@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T09:13:17.518Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="D11EHSEo8IysuHjbCLx8" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T09:17:57.351Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="ScoaBw_vs6NuupsSb51I" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
-    <mxGraphModel dx="2469" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2236" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-708.5" y="167" width="230" height="62" as="geometry" />
+        </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1106.5" y="339" width="336.5" height="201" as="geometry" />
         </mxCell>
@@ -15,9 +18,6 @@
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-1" value="A security group controls the traffic that &lt;br&gt;is allowed to reach and leave the resources&lt;br&gt;(&lt;b&gt;i.e&amp;nbsp;EC2 instance, where it controls the &lt;br&gt;inbound and outbound traffic for the &lt;br&gt;instance&lt;/b&gt;)&amp;nbsp;that it is associated with. (Virtual&lt;br&gt;Private firewwall)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="-1522.5" y="272" width="250" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-708.5" y="167" width="230" height="62" as="geometry" />
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1418.5" y="170" width="560" height="70" as="geometry" />
@@ -36,12 +36,6 @@
         </mxCell>
         <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-599.5" y="184" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-649.5" y="153" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-14" value="Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1185.5" y="153" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rog5_UgRyedYUE5XWu1X-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1548.5" y="406" width="406.3599999999999" height="180" as="geometry" />
@@ -243,6 +237,12 @@
             <mxPoint x="-986" y="618" as="sourcePoint" />
             <mxPoint x="-1036" y="618" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-14" value="Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1185.5" y="155" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-649.5" y="152" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
