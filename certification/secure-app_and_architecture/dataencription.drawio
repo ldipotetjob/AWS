@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T15:36:47.346Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="sJYIy76Junqb8YPo-SqP" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T15:59:14.655Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="QuNC7qfMghXyjJY1zPIr" version="20.2.2" type="github">
   <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
     <mxGraphModel dx="681" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,11 +196,11 @@
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-28" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="25" y="108" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="q1z-KDDTVc9EoOrlDAyU-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Networking access control(security groups, vpcs)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;TLS, IPSec&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="q1z-KDDTVc9EoOrlDAyU-28" vertex="1">
-          <mxGeometry width="320" height="70" as="geometry" />
-        </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=none;gradientColor=none;" parent="q1z-KDDTVc9EoOrlDAyU-28" vertex="1">
           <mxGeometry x="21" y="17" width="299" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="q1z-KDDTVc9EoOrlDAyU-16" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Networking access control(security groups, vpcs)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;Transport Layer Security(TLS), IPSec&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="q1z-KDDTVc9EoOrlDAyU-28" vertex="1">
+          <mxGeometry width="320" height="70" as="geometry" />
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Vpn encryption between&amp;nbsp;&lt;br&gt;newer instances&lt;/b&gt;&lt;/font&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
           <mxGeometry x="52" y="181" width="40" height="40" as="geometry" />
