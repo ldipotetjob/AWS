@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T16:30:35.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="42Xc5a--KrnJYe9I_yi3" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T11:29:50.743Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JsPiNZp4Tkkjb0w_tLJ5" version="20.2.2" type="github">
   <diagram id="4d3rWVGQQ4XWEiGaMTLK" name="Page-1">
-    <mxGraphModel dx="707" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zyRQvNaijaFcc7a0eBew-67" value="Topics" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="324" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="324" y="351" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zyRQvNaijaFcc7a0eBew-68" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=12;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -268,10 +268,10 @@
             <mxPoint x="476" y="612" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SyFEvL9z9r0hGdZ9SvsM-1" value="Amazon Simple Notification Service (&lt;b&gt;SNS&lt;/b&gt;) &lt;br&gt;Messaging Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SyFEvL9z9r0hGdZ9SvsM-1" value="Amazon Simple Notification Service (&lt;b&gt;SNS&lt;/b&gt;) &lt;br&gt;Messaging Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="9" y="47.5" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="SyFEvL9z9r0hGdZ9SvsM-2" value="Amazon Simple Queue Service(&lt;b&gt;SQS&lt;/b&gt;)&amp;nbsp;&lt;br&gt;Message Queuing Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="SyFEvL9z9r0hGdZ9SvsM-2" value="Amazon Simple Queue Service(&lt;b&gt;SQS&lt;/b&gt;)&amp;nbsp;&lt;br&gt;Message Queuing Service" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="13" y="160" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
