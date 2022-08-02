@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T22:04:05.843Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="9wWzio5ajxo0xaLi53aJ" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T22:14:58.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RpeBCp0P4S9X8Cb3SJIR" version="20.2.2" type="github">
   <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
     <mxGraphModel dx="893" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-42" value="IPsec&amp;nbsp; options accross several connections&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="25" y="473" width="260" height="30" as="geometry" />
+          <mxGeometry x="25" y="444" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;strokeColor=#F58534;fillColor=none;gradientColor=none;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="170" width="390" height="320" as="geometry" />
+          <mxGeometry x="10" y="170" width="400" height="290" as="geometry" />
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;strokeColor=#F58534;strokeWidth=1;fillColor=none;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="484" y="358" width="120" height="46" as="geometry" />
@@ -327,9 +327,6 @@
             <mxPoint x="656" y="754" as="sourcePoint" />
             <mxPoint x="645.5" y="721" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="1jBL81s7eOaPd2pdw8Lx-1" value="Amazon GuardDuty" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.guardduty;" vertex="1" parent="1">
-          <mxGeometry x="283" y="407" width="44" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
