@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T21:58:09.974Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YMrhf5BUbP6QBVGO_-xT" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T22:03:05.530Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PpvkCrliesw9hWSSO0q_" version="20.2.2" type="github">
   <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
-    <mxGraphModel dx="1027" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="893" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="q1z-KDDTVc9EoOrlDAyU-42" value="IPsec&amp;nbsp; options accross several connections&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="25" y="473" width="260" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-41" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;strokeColor=#F58534;fillColor=none;gradientColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="170" width="390" height="320" as="geometry" />
         </mxCell>
@@ -234,9 +237,6 @@
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-39" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;Third-party sftware&amp;nbsp;&lt;br&gt;VPN appliance&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.site_to_site_vpn;" parent="1" vertex="1">
           <mxGeometry x="281" y="319" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="q1z-KDDTVc9EoOrlDAyU-42" value="IPsec&amp;nbsp; options accross several connections&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="18" y="473" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-43" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fontSize=12;fontColor=#000000;fillColor=none;gradientColor=none;direction=south;" parent="1" vertex="1">
           <mxGeometry x="176" y="49" width="695" height="21" as="geometry" />
