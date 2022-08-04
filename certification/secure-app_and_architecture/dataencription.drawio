@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T22:14:58.563Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RpeBCp0P4S9X8Cb3SJIR" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-04T19:21:08.404Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zJoYANUxPdydW95Qn_Bo" version="20.2.3" type="github">
   <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
-    <mxGraphModel dx="893" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1343" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -327,6 +327,9 @@
             <mxPoint x="656" y="754" as="sourcePoint" />
             <mxPoint x="645.5" y="721" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v05VvSrc3apIEG9Jjrkb-1" value="AWS managed key&amp;nbsp;is unique to your &lt;br&gt;AWS account and the Region where &lt;br&gt;it’s used" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="890" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
