@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T12:12:49.348Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kVMhoozK3rR9n5ApCrFN" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T12:47:21.205Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zMX-NJDo_PIX8QtGJXng" version="20.2.3" type="github">
   <diagram id="PE-Y0wjKjiBt9aU_vtvI" name="Page-1">
     <mxGraphModel dx="1251" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
           <mxGeometry x="295" y="555" width="12" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PQI0NZv1REfv9DwnelCF-14" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
-          <mxGeometry x="761" y="591" width="12" height="29" as="geometry" />
+          <mxGeometry x="766" y="672" width="12" height="29" as="geometry" />
         </mxCell>
         <mxCell id="PQI0NZv1REfv9DwnelCF-15" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="899" y="591" width="12" height="29" as="geometry" />
@@ -152,7 +152,7 @@
           <mxGeometry x="183" y="779" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-8" value="Asymmetric" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="364" y="777" width="90" height="30" as="geometry" />
+          <mxGeometry x="320" y="777" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q1z-KDDTVc9EoOrlDAyU-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=none;gradientColor=none;direction=north;" parent="1" vertex="1">
           <mxGeometry x="182" y="797" width="78" height="20" as="geometry" />
@@ -326,22 +326,55 @@
           <mxGeometry x="164" y="784" width="12" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1nwDkbsSWTysiVb-nrvI-5" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;mostly for encryption &lt;br&gt;and signing&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="442.5" y="774" width="120" height="40" as="geometry" />
+          <mxGeometry x="398.5" y="774" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="1nwDkbsSWTysiVb-nrvI-6" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="443.5" y="781" width="12" height="26" as="geometry" />
+          <mxGeometry x="399.5" y="781" width="12" height="26" as="geometry" />
         </mxCell>
         <mxCell id="1nwDkbsSWTysiVb-nrvI-7" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
-          <mxGeometry x="526.5" y="781" width="12" height="26" as="geometry" />
+          <mxGeometry x="482.5" y="781" width="12" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="1nwDkbsSWTysiVb-nrvI-8" value="&lt;b&gt;Represents a mathematically related public key and private key &lt;br&gt;pair that you can use for encryption and decryption or signing &lt;br&gt;and verification, but not both.&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="334" y="810" width="320" height="50" as="geometry" />
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-8" value="&lt;b&gt;Represents a mathematically related &lt;br&gt;public key and private key pair that &lt;br&gt;you can use for encryption and &lt;br&gt;decryption or signing and verification, &lt;br&gt;but not both.&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="332" y="814" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="1nwDkbsSWTysiVb-nrvI-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=10;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="692.5" as="sourcePoint" />
             <mxPoint x="330" y="642.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-10" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;AWS KMS&amp;nbsp; Keys&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="577" y="696" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-11" value="AWS managed keys&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="579" y="740.5" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-12" value="KMS keys that AWS services&lt;br&gt;&amp;nbsp;create in your account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=12;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="765.5" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-13" value="Customer managed Keys&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="562" y="829.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-14" value="KMS keys created by the user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=12;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="551" y="854.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="544" y="740.5" width="206" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="543" y="827.5" width="206" height="67.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-17" value="AWS owned keys" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="573" y="910" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-18" value="KMS&amp;nbsp; keys that access services&lt;br&gt;&amp;nbsp;create in a service account&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=12;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="554" y="935" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-19" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="543" y="913" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="1nwDkbsSWTysiVb-nrvI-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;strokeColor=#FF9933;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="532" y="682" width="233" height="319" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
