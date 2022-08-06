@@ -1,35 +1,424 @@
-<mxfile host="app.diagrams.net" modified="2022-07-30T02:28:25.898Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JWOkDZEMtJ59EWID2Pbz" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-02T00:03:04.314Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Yvu0AUddDt3dN60-mKMw" version="20.2.2" type="github">
   <diagram id="cpsscqJeLkJXniqVmFfT" name="Page-1">
-    <mxGraphModel dx="815" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2442" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="168" width="230" height="62" as="geometry" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-13" value="&lt;b&gt;Flow log data is collected outside of the path of &lt;br&gt;your network traffic, and therefore does not affect&lt;br&gt;network throughput or latency&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-751" y="444" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="280" height="70" as="geometry" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-30" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="234" width="204" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-2" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Increasing and&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Monitoring security&amp;nbsp; &lt;br&gt;on&amp;nbsp;&lt;/span&gt;VPC&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" vertex="1" parent="1">
-          <mxGeometry x="410" y="30" width="50" height="50" as="geometry" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-15" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=default;strokeColor=#00994D;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-753" y="449" width="290" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-7" value="Security groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="188" width="100" height="40" as="geometry" />
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-742" y="232" width="240" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-8" value="Network access &lt;br&gt;control lists (&lt;b&gt;ACL&lt;/b&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="286" y="188" width="120" height="40" as="geometry" />
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-732" y="167" width="600" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-9" value="Flow logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="185" width="70" height="30" as="geometry" />
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1158.5" y="339" width="336.5" height="201" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="639" y="185" width="110" height="30" as="geometry" />
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-36" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-1530.5" y="825" width="428.5" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="589" y="154" width="80" height="30" as="geometry" />
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1584.5" y="273" width="254" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="QcHBrNCwGpu6GKMh8RlP-14" value="Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="238" y="153" width="70" height="30" as="geometry" />
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-1" value="A security group controls the traffic that &lt;br&gt;is allowed to reach and leave the resources&lt;br&gt;(&lt;b&gt;i.e&amp;nbsp;EC2 instance, where it controls the &lt;br&gt;inbound and outbound traffic for the &lt;br&gt;instance&lt;/b&gt;)&amp;nbsp;that it is associated with. (Virtual&lt;br&gt;Private firewwall)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1574.5" y="272" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#F58534;fillColor=none;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="-1470.5" y="170" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-2" value="&lt;b&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Increasing and&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Monitoring security&amp;nbsp; &lt;br&gt;on&amp;nbsp;&lt;/span&gt;VPC&lt;/b&gt;" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.vpc;" parent="1" vertex="1">
+          <mxGeometry x="-836" y="15" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-7" value="Security groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1460.5" y="188" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-8" value="Network access &lt;br&gt;control lists (&lt;b&gt;ACL&lt;/b&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-1079.5" y="188" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-9" value="Flow logs" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-674" y="178.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-10" value="Traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="178.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-8" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1600.5" y="406" width="406.3599999999999" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-16" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="Rog5_UgRyedYUE5XWu1X-8" vertex="1">
+          <mxGeometry y="-20" width="320" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-3" value="When you first create a security group, it has no &lt;br&gt;inbound rules. So no inbound traffic is allowed&lt;br&gt;until you add inbound rules to the securitty group" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Rog5_UgRyedYUE5XWu1X-8" vertex="1">
+          <mxGeometry x="36.36363636363636" y="0.7204195804195804" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-7" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="Rog5_UgRyedYUE5XWu1X-8" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-51" value="&lt;b&gt;Security groups are stateful&lt;/b&gt;. For example, if you &lt;br&gt;send a request from an instance, the response &lt;br&gt;traffic for that request is allowed to reach the &lt;br&gt;instance regardless of the inbound security group &lt;br&gt;rules." style="text;whiteSpace=wrap;html=1;fontColor=#000000;" parent="Rog5_UgRyedYUE5XWu1X-8" vertex="1">
+          <mxGeometry x="36.3599999999999" y="93" width="370" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-6" value="" style="group" parent="Rog5_UgRyedYUE5XWu1X-8" vertex="1" connectable="0">
+          <mxGeometry x="0.8600000000001273" y="-22" width="319" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-2" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;&amp;nbsp; &amp;nbsp; You can specify allow rules, but not deny rules.&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Rog5_UgRyedYUE5XWu1X-6" vertex="1">
+          <mxGeometry x="9" y="4" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-5" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="Rog5_UgRyedYUE5XWu1X-6" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-10" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="-1601.5" y="457" width="339" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-4" value="&lt;div&gt;AWS assigns a unique ID to the rule, this ID can be&amp;nbsp;&lt;/div&gt;&lt;div&gt;used by the API or CLI to modify or delete the rule.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="Rog5_UgRyedYUE5XWu1X-10" vertex="1">
+          <mxGeometry x="39" y="0.7049180327868853" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-9" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="Rog5_UgRyedYUE5XWu1X-10" vertex="1">
+          <mxGeometry width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1413" y="273" as="sourcePoint" />
+            <mxPoint x="-1413" y="229" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-17" value="Rules to&amp;nbsp;&lt;br&gt;consider" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#000000;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/Rules.svg;strokeColor=#000000;strokeWidth=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-1480" y="604" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-19" value="Protocol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1600.5" y="692" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-20" value="Port range" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1500" y="702" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-21" value="Source &lt;br&gt;or &lt;br&gt;destination" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1402.5" y="680" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-22" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1533" y="697" as="sourcePoint" />
+            <mxPoint x="-1490.5" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-23" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1390.5" y="702" as="sourcePoint" />
+            <mxPoint x="-1430.5" y="682" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-24" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1460.5" y="711" as="sourcePoint" />
+            <mxPoint x="-1460.5" y="682" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-25" value="Use network ACLs to control access to your subnets &lt;br&gt;and use security groups to control traffic to EC2 instances&lt;br&gt;&amp;nbsp;in your subnets." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-1612" y="739" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-26" value="Availability zone-1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-1502" y="855" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-30" value="Subnet-1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-1464.5" y="923" width="108.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-33" value="&lt;font color=&quot;#000000&quot;&gt;EC2 Instance&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;shadow=0;fontColor=#FF3333;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-1432" y="981" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-34" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.virtual_private_cloud;fillColor=#F58534;gradientColor=none;shadow=0;fontColor=#000000;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-1482" y="805" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-37" value="Availability zone-2" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="-1301.5" y="855" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-38" value="Subnet-2" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_subnet;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-1259" y="923" width="108.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-39" value="&lt;font color=&quot;#000000&quot;&gt;EC2 Instance&lt;/font&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;shadow=0;fontColor=#FF3333;strokeColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="-1226.5" y="979" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-40" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fontColor=#000000;strokeColor=#FF3333;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1452" y="955" width="290" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-41" value="&lt;b&gt;security groups&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1362" y="952" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-42" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;dashed=1;fontColor=#000000;strokeColor=#FF3333;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1470.5" y="890" width="328.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-43" value="&lt;b&gt;Network ACL&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1356" y="885" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-44" value="A network access control list (ACL) allows or denies &lt;br&gt;specific inbound or outbound traffic at the subnet level." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1158.5" y="274" width="310" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-45" value="&amp;nbsp;By default, it allows all inbound and outbound IPv4 traffic&lt;br&gt;&amp;nbsp;and, if applicable IPv6" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1134" y="342" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-46" value="Each subnet in your VPC must be associated with a &lt;br&gt;network ACL." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1134" y="380" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-47" value="You can associate a network ACL with multiple subnets. &lt;br&gt;&lt;b&gt;However, a subnet can be associated with only one &lt;br&gt;network ACL at a time&lt;/b&gt;." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1133" y="420" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-52" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1600" y="497" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-53" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1160" y="272" width="310" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-54" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1019" y="272" as="sourcePoint" />
+            <mxPoint x="-1019" y="228" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-55" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1167" y="339" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-56" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1166.5" y="378" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-57" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1166.5" y="418" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-58" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" parent="1" vertex="1">
+          <mxGeometry x="-1167" y="477" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-59" value="Network ACLs are stateless, which means that &lt;br&gt;responses to allowed inbound traffic are subject&lt;br&gt;&amp;nbsp;to the rules for outbound traffic (and vice versa).." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1134" y="479" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-61" value="Rules to&amp;nbsp;&lt;br&gt;consider" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#000000;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/vpc/Rules.svg;strokeColor=#000000;strokeWidth=1;fillColor=none;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="-1022" y="559" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-62" value="Port range" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1042" y="657" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-63" value="Source &lt;br&gt;or &lt;br&gt;destination" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-944.5" y="635" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-64" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1075" y="652" as="sourcePoint" />
+            <mxPoint x="-1032.5" y="625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-65" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-932.5" y="657" as="sourcePoint" />
+            <mxPoint x="-972.5" y="637" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-66" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1002.5" y="666" as="sourcePoint" />
+            <mxPoint x="-1002.5" y="637" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-67" value="Protocol" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1113" y="652" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-68" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1372" y="666" as="sourcePoint" />
+            <mxPoint x="-1422" y="666" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-69" value="Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1377" y="652" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-70" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-918" y="617" as="sourcePoint" />
+            <mxPoint x="-968" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-71" value="Type" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-923" y="603" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-72" value="Rule number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="-1177" y="604" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rog5_UgRyedYUE5XWu1X-73" value="" style="endArrow=none;html=1;rounded=0;fontColor=#000000;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1038" y="618" as="sourcePoint" />
+            <mxPoint x="-1088" y="618" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-14" value="Security" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1237.5" y="155" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1402.5" y="933" as="sourcePoint" />
+            <mxPoint x="-1402.5" y="884" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1194.14" y="991.5" as="sourcePoint" />
+            <mxPoint x="-1194.14" y="942.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1420" y="992.5" as="sourcePoint" />
+            <mxPoint x="-1420" y="943.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FF3333;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1211" y="931" as="sourcePoint" />
+            <mxPoint x="-1211" y="882" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-5" value="&lt;font color=&quot;#000000&quot;&gt;Enables you to capture information about &lt;br&gt;the IP traffic going to and from network &lt;br&gt;interfaces in your VPC. (l&lt;b&gt;ogging&lt;/b&gt; IP traffic)&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="-737" y="232" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-7" value="Log Data collected&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-706" y="295" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-8" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=0.099;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-693.1300000000001" y="325.28" as="sourcePoint" />
+            <mxPoint x="-688" y="369" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-719.7" y="344" />
+              <mxPoint x="-698" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-10" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
+          <mxGeometry x="-706" y="377" width="40" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontColor=#000000;exitX=0.099;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-593" y="324" as="sourcePoint" />
+            <mxPoint x="-603" y="368" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-563" y="343" />
+              <mxPoint x="-597.8699999999999" y="348.72" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-12" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
+          <mxGeometry x="-623" y="377" width="45" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-16" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-641" y="231" as="sourcePoint" />
+            <mxPoint x="-641" y="208" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-17" value="If you create &lt;b&gt;a&lt;/b&gt; &lt;b&gt;flow log&lt;/b&gt; for&lt;b&gt; a subnet&lt;/b&gt; or &lt;b&gt;VPC&lt;/b&gt;, each &lt;br&gt;network interface in that subnet or VPC, is monitored&lt;br&gt;describing&amp;nbsp;the traffic flow" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-748" y="512" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;Flow log data for a monitored network &lt;br&gt;interface&amp;nbsp;is recorded as flow log records&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-583" y="287" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-19" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-583" y="295" width="12" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="295" width="12" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-25" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Cons when using flow logs&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=default;fillColor=none;fontSize=11;fontColor=default;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-712" y="580" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-26" value="&lt;b&gt;After you create a flow log, it can take several&amp;nbsp; minutes to begin collecting and publishing data to the chosen destinations. Flow logs do not capture real-time log streams for your network &lt;br&gt;interfaces.&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;fontSize=12;fontColor=default;strokeColor=default;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-752" y="638" width="290" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-27" value="&lt;b&gt;&lt;font color=&quot;#ff3333&quot;&gt;Flow log has to many limitations so this diagram is&lt;br&gt;just an overview in a way that you can get an idea&lt;br&gt;about different perspectives on how to&amp;nbsp; log IP traffic&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-748" y="732" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-28" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Find more info:&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;a href=&quot;https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html&quot;&gt;https://docs.aws.amazon.com/vpc/latest/userguide/flow-logs.html&lt;/a&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="779" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-29" value="&lt;font color=&quot;#000000&quot;&gt;Let you copy network traffic from an &lt;br&gt;elastic network&amp;nbsp;interface of type &lt;br&gt;interface.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#FF3333;rounded=0;arcSize=10;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-306" y="230" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-31" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-211" y="232" as="sourcePoint" />
+            <mxPoint x="-211" y="209" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-32" value="Setting up traffic mirroring&amp;nbsp;sends &lt;br&gt;the traffic to out-of-band security&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-308" y="292" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-34" value="filters and/or packet truncation" style="text;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-287" y="327" width="155" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-36" value="Inspection" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.inspection_forensics;rounded=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-298" y="388.25" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-37" value="Threat&lt;br&gt;monitoring" style="fillColor=#28A8E0;verticalLabelPosition=bottom;sketch=0;html=1;strokeColor=#ffffff;verticalAlign=top;align=center;points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];pointerEvents=1;shape=mxgraph.cisco_safe.compositeIcon;bgIcon=ellipse;resIcon=mxgraph.cisco_safe.capability.threat_intelligence;rounded=1;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-231" y="388.25" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-38" value="Troubleshooting" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;sketch=0;fontSize=12;fontColor=#000000;strokeColor=default;fillColor=none;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="-157" y="388.25" width="29.86" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-39" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="334" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-40" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="334" width="12" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-41" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-265" y="354" as="sourcePoint" />
+            <mxPoint x="-275" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-42" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-220" y="356" as="sourcePoint" />
+            <mxPoint x="-220" y="379" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=10;fontColor=#000000;exitX=0.84;exitY=1.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-156.80000000000018" y="355.45000000000005" as="sourcePoint" />
+            <mxPoint x="-150" y="386" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-45" value="&lt;div&gt;&lt;b&gt;Simplified operation&lt;/b&gt; because can be mirrored&amp;nbsp; any range of&amp;nbsp;&lt;/div&gt;&lt;div&gt;your VPC traffic&amp;nbsp;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;without having to manage packet forwarding&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;agents on your EC2 instances.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="494" width="300" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-46" value="Capture packets at the elastic network interface, which &lt;br&gt;cannot be disabled or tampered with from a user space&amp;nbsp;&lt;br&gt;so in that way the &lt;b&gt;security is enhanced&lt;/b&gt;.&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-324" y="535" width="270" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-47" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-359" y="491" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-48" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="532" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-49" value="Increase the&amp;nbsp; monitoring options&amp;nbsp; because it &lt;br&gt;sends&amp;nbsp; your mirrored traffic to any security device." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-323" y="578" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-50" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeWidth=0;" vertex="1" parent="1">
+          <mxGeometry x="-358" y="573" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-51" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontColor=default;strokeColor=#00994D;strokeWidth=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-353" y="486" width="313" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-53" value="Why apply traffic mirroring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-287" y="470" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-54" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;© 2022, Scadip SL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. All rights reserved.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-1602" y="1133" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yMgCK0aEijrdPxdoYDGV-55" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rounded=1;sketch=0;fontSize=12;fontColor=#000000;fillColor=none;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="-1200" y="130" width="780" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="QcHBrNCwGpu6GKMh8RlP-13" value="Monitoring" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-462" y="151" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
