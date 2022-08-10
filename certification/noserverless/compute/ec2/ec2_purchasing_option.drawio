@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T11:26:01.724Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="I6FglHQT3Lt2j4OXkrfv" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-10T15:06:36.677Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="n0QMKHLISdxOKZvidfPO" version="20.2.3" type="github">
   <diagram id="NRUUry7xWAZrR5KbMhYG" name="Page-1">
-    <mxGraphModel dx="707" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1055" dy="461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,8 @@
         <mxCell id="CTkGnxyHy4XQXVknj4H4-13" value="you can reserve capacity that &lt;br&gt;is scheduled to recur daily, &lt;br&gt;weekly, or monthly, with &lt;br&gt;a specified start time and &lt;br&gt;duration, for a one-year&lt;br&gt;&amp;nbsp;term" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="237" y="142" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CTkGnxyHy4XQXVknj4H4-14" value="Reduce your Amazon EC2 costs&lt;br&gt;&amp;nbsp;by makinga commitment to a &lt;br&gt;consistent instance configuration, &lt;br&gt;including instance type and Region, &lt;br&gt;for a term of 1 or 3 years." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="424" y="135" width="230" height="90" as="geometry" />
+        <mxCell id="CTkGnxyHy4XQXVknj4H4-14" value="Reduce your Amazon EC2 costs&lt;br&gt;&amp;nbsp;by making a commitment to a &lt;br&gt;consistent instance configuration, &lt;br&gt;including instance type and region, &lt;br&gt;for a term of 1 or 3 years." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="429" y="135" width="220" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-15" value="Request unused EC2&lt;br&gt;&amp;nbsp;instances, which can &lt;br&gt;reduce your Amazon &lt;br&gt;EC2 costs significantly." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="996" y="135" width="160" height="70" as="geometry" />
@@ -88,7 +88,7 @@
         <mxCell id="CTkGnxyHy4XQXVknj4H4-32" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;direction=west;strokeColor=#3399FF;" parent="1" vertex="1">
           <mxGeometry x="186" y="214" width="12" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="CTkGnxyHy4XQXVknj4H4-33" value="Spot Instances are a cost-effective &lt;br&gt;choice if you can be flexible about&lt;br&gt;&amp;nbsp;when your applications run andif &lt;br&gt;they can be interrupted." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
+        <mxCell id="CTkGnxyHy4XQXVknj4H4-33" value="Spot Instances are a cost-effective &lt;br&gt;choice if you can be flexible about&lt;br&gt;&amp;nbsp;when your applications run and if &lt;br&gt;they can be interrupted." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF3333;" parent="1" vertex="1">
           <mxGeometry x="989" y="204" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CTkGnxyHy4XQXVknj4H4-36" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;fontColor=#000033;fillColor=none;strokeColor=#3399FF;" parent="1" vertex="1">
@@ -109,7 +109,7 @@
         <mxCell id="CTkGnxyHy4XQXVknj4H4-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#FF3333;strokeColor=default;strokeWidth=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="241" width="680" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="CeRce04lDFD8QkWVWEs2-1" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;© 2022, Scadip SL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. All rights reserved.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="CeRce04lDFD8QkWVWEs2-1" value="&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;© 2022, Scadip SL&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(84, 91, 100); font-family: &amp;quot;Amazon Ember&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Roboto, Arial, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;. All rights reserved.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="60" y="470" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
