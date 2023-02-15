@@ -30,18 +30,18 @@ Your configs file must reside in your local machine:</br>
 1. ~/.aws/config 
 2. ~/.aws/credentials
 
+* File content
 
-1. :
 ```
 # file:
 # ~/.aws/config
 
-[default]
-aws_access_key_id=<your_access_key_id>;
-aws_secret_access_key=<your_secret_access_key>;
+AWS Access Key ID [**************];
+AWS Secret Access Key [************];
+Default region name [my_region_name];
+Default output format [Json]
 ```
-
-2. : 
+ 
 ```
 # file:
 # ~/.aws/credentials
@@ -50,3 +50,17 @@ aws_secret_access_key=<your_secret_access_key>;
 aws_access_key_id=<your_access_key_id>;
 aws_secret_access_key=<your_secret_access_key>;
 ```
+
+#### Creating CLIENT from AWS config file from local machine 
+
+```python
+
+s3_client = boto3.client('s3',
+aws_access_key_id=settings.AWS_SERVER_PUBLIC_KEY,
+aws_secret_access_key=settings.AWS_SERVER_SECRET_KEY,
+region_name=REGION_NAME
+)
+
+```
+
+
