@@ -1,7 +1,6 @@
 
 ## Different ways to create credential provider in AWS
 
-
 ### Getting credentials from Environment Vars
 
 #### Creating ENVIRONMENT VARIABLES 
