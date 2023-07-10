@@ -1,4 +1,7 @@
-# AWS
-Architectural implementation on AWS
+# AWS architecture implementation
 
-This repository contains info related with AWS architectural solutions and aws certification.
+This repository contains AWS architecture solutions and some AWS certification materials.
+
+## AWS Best practices links
+
+1.  [Aws batch security best practices](https://docs.aws.amazon.com/batch/latest/userguide/best-practices.html)
