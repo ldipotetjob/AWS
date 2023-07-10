@@ -5,3 +5,4 @@ This repository contains AWS architecture solutions and some AWS certification m
 ## AWS Best practices links
 
 1.  [Aws batch best practices](https://docs.aws.amazon.com/batch/latest/userguide/best-practices.html)
+2.  [Aws batch best practices-II  in a Nutshell](https://aws.amazon.com/blogs/hpc/aws-batch-best-practices/)
