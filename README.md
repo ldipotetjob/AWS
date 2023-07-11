@@ -10,4 +10,4 @@ This repository contains AWS architecture solutions and some AWS certification m
 
 ## AWS HOW TO links
 
-1. [How to Setup NAT gatewayfor private subnet ](https://repost.aws/knowledge-center/nat-gateway-vpc-private-subnet)
+1. [How to Setup NAT gateway for private subnet ](https://repost.aws/knowledge-center/nat-gateway-vpc-private-subnet)
