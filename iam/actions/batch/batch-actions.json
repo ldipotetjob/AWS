@@ -1,7 +1,8 @@
 {
 	"reference_link": "https://docs.aws.amazon.com/service-authorization/latest/reference/list_awsbatch.html",
-	"batch": [
-    {
+	"batch": 
+	[
+    		{
 			"iamAction": "batch:CreateComputeEnvironment",
 			"description": "Grants permission to create an AWS Batch compute environment."
 		},
