@@ -11,6 +11,10 @@
 			"description": "Grants permission to delete an AWS Batch compute environment"
 		},
 		{
+			"iamAction": "batch:DescribeComputeEnvironments",
+			"description": "Grants permission to describe one or more AWS Batch compute environments"
+		},
+		{
 			"iamAction": "batch:SubmitJob",
 			"description": "Grants permission to submit an AWS Batch job from a job definition."
 		},
