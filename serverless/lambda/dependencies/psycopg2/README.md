@@ -6,7 +6,7 @@
 2. POSTGRES version
 3. Environment (development/testing/production)
 
-For environments like **development/testing** we have some guidance and solution for **psycopg-binary**:
+For environments like **development/testing** we have some guidance and a solution for **psycopg-binary**:
 
 1. Download psycopg2 dependencies based on your Python version. Pay attention to the **upload_lambda_directory** directory in the following code:  
 
@@ -51,11 +51,23 @@ pip install psycopg2-binary -t /data/upload_lambda_directory
 
 5. Update your lambda function uploading from zip **package.zip** from your **aws console** or by **aws cli**.
 
-Dependencies **3.9/3.10/3.11**:
+###  psycopg2 dependencies supported by Python **3.9/3.10/3.11**
 
 1. [Lambda Python ver: 3.9](https://github.com/ldipotetjob/AWS/tree/main/serverless/lambda/dependencies/psycopg2/psycopg2_binary-ver3.9)
 2. [Lambda Python ver: 3.10](https://github.com/ldipotetjob/AWS/tree/main/serverless/lambda/dependencies/psycopg2/psycopg2_binary-ver3.10)
 3. [Lambda Python ver: 3.11](https://github.com/ldipotetjob/AWS/tree/main/serverless/lambda/dependencies/psycopg2/psycopg2_binary-ver3.11)
+
+🟩 Use from this repo the previous libraries(5.) or create your own(1.) to create your **psycopg dependencies** on development/testing environments 
+
+🟥 Don't use this repo if you need to create your **psycopg dependencies** on producction environments: 
+
+* From **psycopg** the recommendation is **for production use you are advised to use the source distribution.**
+
+
+From production environments you can try:
+
+1. [by yourself from psycopg](https://www.psycopg.org/docs/install.html#prerequisites) 
+2. Try our marketplace and let us know the library you need to build. 
 
 
 ref: [psycopg-vs-psycopg](https://www.psycopg.org/docs/install.html#psycopg-vs-psycopg-binary)
