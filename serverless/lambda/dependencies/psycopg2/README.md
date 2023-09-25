@@ -67,7 +67,7 @@ pip install psycopg2-binary -t /data/upload_lambda_directory
 From production environments you can try:
 
 1. [by yourself from psycopg](https://www.psycopg.org/docs/install.html#prerequisites) 
-2. [Try our marketplace and let us know the library you need to build.](ldipotet@scadip.com)
+2. Try our marketplace and let us know the library you need to build.(ldipotet@scadip.com)
 
 
 ref: [psycopg-vs-psycopg](https://www.psycopg.org/docs/install.html#psycopg-vs-psycopg-binary)
