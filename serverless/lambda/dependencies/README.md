@@ -1,1 +1,1 @@
-## This README contains the info specific dependencies, version compatibilities between programming languages, libraries and AWS resources. 
+## This README contains info about dependencies and version compatibilities between programming languages, libraries and AWS resources. 
