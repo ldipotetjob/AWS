@@ -51,6 +51,8 @@ pip install psycopg2-binary -t /data/upload_lambda_directory
 
 5. Update your lambda function uploading from zip **package.zip** from your **aws console** or by **aws cli**.
 
+Dependencies **3.9/3.10/3.11**:
+
 1. Lambda Python ver: 3.9
 2. Lambda Python ver: 3.10
 3. Lambda Python ver: 3.11
