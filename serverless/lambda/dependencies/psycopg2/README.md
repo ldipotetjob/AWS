@@ -53,12 +53,9 @@ pip install psycopg2-binary -t /data/upload_lambda_directory
 
 Dependencies **3.9/3.10/3.11**:
 
-1. Lambda Python ver: 3.9
-2. Lambda Python ver: 3.10
-3. Lambda Python ver: 3.11
-
-
-
+1. [Lambda Python ver: 3.9](https://github.com/ldipotetjob/AWS/tree/main/serverless/lambda/dependencies/psycopg2/psycopg2_binary-ver3.9)
+2. [Lambda Python ver: 3.10](https://github.com/ldipotetjob/AWS/tree/main/serverless/lambda/dependencies/psycopg2/psycopg2_binary-ver3.10)
+3. [Lambda Python ver: 3.11](https://github.com/ldipotetjob/AWS/tree/main/serverless/lambda/dependencies/psycopg2/psycopg2_binary-ver3.11)
 
 
 ref: [psycopg-vs-psycopg](https://www.psycopg.org/docs/install.html#psycopg-vs-psycopg-binary)
