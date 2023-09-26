@@ -1,4 +1,4 @@
-## Connecting lambda function with postgres DB 
+## How to add dependencies to a Python lambda function to connect with Postgres DB 
 
 ### Points to pay attention:
 
