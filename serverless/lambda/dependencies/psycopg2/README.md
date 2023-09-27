@@ -17,7 +17,7 @@ For environments like **development/testing** we have some guidance and a soluti
 version=3.11 
 docker run --name piplauncher --rm -ti \
 --mount src="$(pwd)",target=/data,type=bind python:$version-slim \
-pip install psycopg2-binary -t /data/upload_lambda_directory
+pip install psycopg2-binary -t /data/psycopg2_module_upload_directory
 ```
 
 2. Generated dependencies after install psycopg2-binary in your upload_lambda_directory 
