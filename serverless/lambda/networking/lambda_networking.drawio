@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-11T12:28:50.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="7xMPGICePtD4TUQmRAFL" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-11T13:35:10.657Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="PNHOjS0f4ZoXz8tjkyM5" version="22.0.4" type="github" pages="2">
   <diagram name="lambda_networking" id="5S_vtZ67ByDqHM7MuEdr">
-    <mxGraphModel dx="2236" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+    <mxGraphModel dx="1961" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -142,11 +142,20 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="izkbHXwlRWSYValOLuml" name="Page-2">
-    <mxGraphModel dx="1256" dy="575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
+  <diagram id="izkbHXwlRWSYValOLuml" name="efs">
+    <mxGraphModel dx="981" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LKfNATIFm_fBNxjuIVGV-1" value="EFS" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.efs;fillColor=#ED7100;gradientColor=none;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="57" height="59.2" as="geometry" />
+        </mxCell>
+        <mxCell id="114iOiXDD0F_sJJyWzsY-1" value="ONE ZONE" style="sketch=0;outlineConnect=0;fillColor=#006600;strokeColor=#82b366;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_file_system_one_zone_infrequent_access;" vertex="1" parent="1">
+          <mxGeometry x="140" y="220" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="ci8etX4bMG8X7Eh6tp4n-2" value="Amazon ECS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ecs;" vertex="1" parent="1">
+          <mxGeometry x="510" y="130" width="80" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
