@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T13:36:29.922Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="yPbyFeMWdcYlvrmUpB1o" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-13T13:37:21.150Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="kySGBzI2UmVS7D4iQcVc" version="22.0.4" type="github" pages="2">
   <diagram name="lambda_networking" id="5S_vtZ67ByDqHM7MuEdr">
     <mxGraphModel dx="1803" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -143,7 +143,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="izkbHXwlRWSYValOLuml" name="efs">
-    <mxGraphModel dx="7422" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7662" dy="1825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,8 +258,8 @@
         <mxCell id="EEQ9tZXlaH4CYTuxK5bs-127" value="Availability zone" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-6520" y="-980" width="890" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-128" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Solution: Kraken2 running on ECS. &amp;nbsp;kraken2-build DB task builds&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;kraken&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Standar DB in EFS.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-6502.5" y="-1115" width="470" height="50" as="geometry" />
+        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-128" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Solution: Kraken2 running on AWS ECS. &amp;nbsp;kraken2-build DB task builds&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;kraken&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Standar DB in AWS EFS.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-6502.5" y="-1115" width="510" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EEQ9tZXlaH4CYTuxK5bs-134" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="-6566" y="-330" width="466" height="150" as="geometry" />
