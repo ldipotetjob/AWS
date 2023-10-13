@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-13T12:33:07.373Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ek2soLK9xgKwu5s_hW6j" version="22.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-13T12:49:50.171Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="8yap43gJOh4mwMIIdryf" version="22.0.4" type="github" pages="2">
   <diagram name="lambda_networking" id="5S_vtZ67ByDqHM7MuEdr">
     <mxGraphModel dx="1803" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="1390" math="0" shadow="0">
       <root>
@@ -292,25 +292,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EEQ9tZXlaH4CYTuxK5bs-127" value="Availability zone" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_availability_zone;strokeColor=#545B64;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#545B64;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-6576" y="-990" width="1001" height="612" as="geometry" />
+          <mxGeometry x="-6520" y="-980" width="890" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-128" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Solution: Kong Api management running on ECS in public subnets&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;with Postgres running in Amazon RDS in private subnets.&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;If you plan to implement this design in production check the suggestion&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;at the foot of this diagram.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-6480.5" y="-1130" width="470" height="80" as="geometry" />
+        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-128" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;Solution: Kraken2 running on ECS. &amp;nbsp;kraken2-build DB task mount a volume&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;in EFS place where the kraken2 build standar DB task will storage&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;the Standar kraken DB&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-6502.5" y="-1120" width="490" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EEQ9tZXlaH4CYTuxK5bs-134" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="-6566" y="-330" width="620" height="165" as="geometry" />
+          <mxGeometry x="-6566" y="-330" width="466" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EEQ9tZXlaH4CYTuxK5bs-135" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Suggestions for &lt;br&gt;Production deployments&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-6556" y="-325" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-136" value="&lt;ol&gt;&lt;li&gt;Amazon ECS Cluster&amp;nbsp; must be in private subnets.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Private subnets need a NAT Gateway.&lt;/li&gt;&lt;li&gt;We expose to internet apis admin/proxy and these uris are forwarded through 2 target groups.&amp;nbsp;&lt;/li&gt;&lt;li&gt;We have 2 services for Kong(&lt;b&gt;admin and&amp;nbsp; proxy&lt;/b&gt;).&lt;/li&gt;&lt;li&gt;We have a service for each Api that we expose.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Our ALB DNS name must be pointing to our Domain CNAME can be Route53 or in our case outside of AWS.&amp;nbsp;&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-6576" y="-290" width="650" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-137" value="&lt;b&gt;ALB&lt;/b&gt;: Application Load Balancer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-6544" y="-190" width="190" height="30" as="geometry" />
+        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-136" value="&lt;ol&gt;&lt;li&gt;For cheaper implementation we choose ONE-ZONE but better Standar .&amp;nbsp;&lt;/li&gt;&lt;li&gt;Our infrequent Access after 14 days.&lt;/li&gt;&lt;li&gt;Bursting Throughput.&lt;/li&gt;&lt;li&gt;ECS Cluster and EFS in the same AZ better in ONE-ZONE but not necessary,&amp;nbsp;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-6576" y="-280" width="480" height="100" as="geometry" />
         </mxCell>
         <mxCell id="EEQ9tZXlaH4CYTuxK5bs-138" value="&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;Registering multiple target groups with a service is possible in AWS ECS is available now.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;But for some specific reason in the runtime Kong containers.&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;We couldn&#39;t register the target groups. (It doesn&#39;t work on Kong containers)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-5921" y="-325" width="540" height="60" as="geometry" />
+          <mxGeometry x="-6082" y="-335" width="540" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-139" value="VPC" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#248814;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-6550" y="-1010" width="960" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="EEQ9tZXlaH4CYTuxK5bs-140" value="ECS Cluster ASG can be configure." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-6546" y="-209" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
