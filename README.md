@@ -12,7 +12,7 @@ This repository contains AWS architecture solutions and some AWS certification m
 
 1. [How to Setup NAT gateway for private subnet ](https://repost.aws/knowledge-center/nat-gateway-vpc-private-subnet)
 
-## AWS resources links
+## AWS resource links
 
 1. [IAM example about access policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html)
 2. [Actions_resources_and_condition keys for AWS services](https://docs.aws.amazon.com/service-authorization/latest/reference/reference_policies_actions-resources-contextkeys.html)
