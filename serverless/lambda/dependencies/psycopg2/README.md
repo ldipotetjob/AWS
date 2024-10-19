@@ -70,5 +70,5 @@ From production environments you can try:
 2. Try our marketplace and let us know the library you need to build.(ldipotet@scadip.com)
 
 
-ref: [psycopg-vs-psycopg](https://www.psycopg.org/docs/install.html#psycopg-vs-psycopg-binary)
+ref: [psycopg-vs-psycopg-binary](https://www.psycopg.org/docs/install.html#psycopg-vs-psycopg-binary)
 
