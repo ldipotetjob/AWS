@@ -7,12 +7,12 @@ your-lambda-project/
 │   └── package_for-library-n 
 │ 
 ├── src/                     # Main source code for Lambda functions
-│   ├── lambda_function_name_1  
+│   ├── lambda_function_name_1/  
 │   │      ├── lambda_function.py # Entry point for Lambda Function  (for Python)
 │   │      ├── lambda_function_utility_file_1.py # utility function_1 for Lambda Function
 │   │      └── lambda_function_utility_file_n.py # utility function_n for Lambda Function
 │   │
-│   ├── lambda_function_name_n
+│   ├── lambda_function_name_n/
 │   │      ├── lambda_function.py # Entry point for Lambda Function  (for Python)
 │   │      ├── lambda_function_utility_file_1.py # utility function_1 for Lambda Function
 │   │      └── lambda_function_utility_file_n.py # utility function_n for Lambda Function
